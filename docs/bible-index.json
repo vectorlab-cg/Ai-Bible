@@ -36,7 +36,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 8,
       "text": "Un sistema AI va descritto su piu livelli:",
       "terms": [
@@ -49,7 +49,9 @@
         "un",
         "va"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-0f63974d4906",
@@ -84,7 +86,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 62,
       "text": "- il modello fornisce capacita di previsione, classificazione o generazione; - il contesto porta informazioni rilevanti per la richiesta; - gli strumenti permettono di leggere dati, eseguire operazioni o chiamare servizi; - la memoria conserva informazioni tra una fase e l'altra; - il ciclo agentico pianifica, agisce, osserva il risultato e ripete; - i controlli limitano cio che il sistema puo fare.",
       "terms": [
@@ -137,7 +139,9 @@
         "tra",
         "una"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-c4b3cd048d25",
@@ -172,7 +176,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 22,
       "text": "Un modello isolato e capace di produrre testo, ma non conosce automaticamente le fonti operative dell'organizzazione e non dovrebbe ricevere privilegi impliciti.",
       "terms": [
@@ -197,7 +201,9 @@
         "testo",
         "un"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-c0919dc7fc25",
@@ -232,7 +238,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "Il training modifica i pesi del modello usando grandi quantita di dati. L'inference e l'uso del modello per produrre un risultato a partire da un input.",
       "terms": [
@@ -285,7 +291,9 @@
           "score": 0.1429,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-3ce9f564a131",
@@ -320,7 +328,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 41,
       "text": "Il fine-tuning adatta un modello a un compito o stile piu specifico, ma ha costi di aggiornamento e valutazione. Quando la conoscenza deve cambiare spesso o deve restare separata dai pesi, il retrieval e il context engineering sono alternative piu adatte.",
       "terms": [
@@ -384,7 +392,9 @@
           "score": 0.0909,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-2b6b74de89d7",
@@ -419,7 +429,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 5,
       "text": "La scelta non e ideologica:",
       "terms": [
@@ -429,7 +439,9 @@
         "non",
         "scelta"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-38c1232960dc",
@@ -464,7 +476,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 42,
       "text": "- usare RAG quando servono fonti aggiornabili e citabili; - usare skill quando serve una procedura ripetibile; - usare fine-tuning quando il comportamento o il formato devono essere stabilizzati su un compito; - usare regole quando la decisione e esplicita e deterministica.",
       "terms": [
@@ -524,7 +536,9 @@
           "score": 0.05,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-66d54ecbdcef",
@@ -559,7 +573,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "Un dato isolato ha poco significato. Il contesto chiarisce da dove proviene e in quale situazione vale. Le relazioni mostrano come si collega ad altri elementi.",
       "terms": [
@@ -590,7 +604,9 @@
         "un",
         "vale"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-c911c3066dee",
@@ -625,7 +641,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 11,
       "text": "Per una Bibbia AI questo implica che ogni concetto dovrebbe avere:",
       "terms": [
@@ -641,7 +657,9 @@
         "questo",
         "una"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-078ecb9bbd22",
@@ -676,7 +694,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "- una definizione; - il contesto di applicazione; - le relazioni con altri concetti; - esempi e controesempi; - limiti e condizioni; - una fonte verificabile.",
       "terms": [
@@ -700,7 +718,9 @@
         "una",
         "verificabile"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-befcfc5d637e",
@@ -735,7 +755,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 22,
       "text": "Una risposta semanticamente simile non e automaticamente una risposta corretta. Il sistema deve recuperare la fonte giusta e usare il contesto corretto.",
       "terms": [
@@ -758,7 +778,9 @@
         "una",
         "usare"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-e6cc430b53b6",
@@ -793,7 +815,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 31,
       "text": "Retrieval Augmented Generation recupera informazioni da fonti esterne e le inserisce nel contesto del modello prima della generazione. Riduce la dipendenza dalla memoria interna del modello, ma non elimina gli errori.",
       "terms": [
@@ -852,7 +874,9 @@
           "score": 0.1579,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-1df25fffac8d",
@@ -887,7 +911,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 4,
       "text": "Un RAG affidabile richiede:",
       "terms": [
@@ -921,7 +945,9 @@
           "score": 0.3333,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-9b28cea46cea",
@@ -956,7 +982,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 29,
       "text": "1. estrazione corretta dal documento; 2. segmentazione che conservi il significato; 3. metadati e permessi coerenti; 4. ricerca lessicale e semantica; 5. citazioni verificabili; 6. valutazione su domande reali.",
       "terms": [
@@ -989,7 +1015,9 @@
         "valutazione",
         "verificabili"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-31d9866efb5a",
@@ -1024,7 +1052,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 29,
       "text": "Nei documenti complessi, il significato puo dipendere da intestazioni, date, tabelle, definizioni e relazioni tra pagine. Spezzare il testo solo per numero di caratteri puo distruggere proprio quel contesto.",
       "terms": [
@@ -1073,7 +1101,9 @@
           "score": 0.0455,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-de20f7f62d4a",
@@ -1108,7 +1138,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 24,
       "text": "Un modello genera una continuazione plausibile, non una garanzia di verita. L'allucinazione nasce quando il sistema riempie una lacuna con un contenuto non verificato.",
       "terms": [
@@ -1133,7 +1163,9 @@
         "verificato",
         "verita"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-e94627e31754",
@@ -1168,7 +1200,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 45,
       "text": "Gli strumenti, il retrieval e i controlli possono ridurre il rischio, ma un agente introduce anche piu passaggi e quindi piu punti di possibile errore. Un errore che resta testo puo diventare un errore operativo quando l'agente aggiorna dati, crea ticket o chiama un servizio.",
       "terms": [
@@ -1235,7 +1267,9 @@
           "score": 0.037,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-4a9b22979da1",
@@ -1270,7 +1304,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 21,
       "text": "Regola pratica: quando una risposta deve essere vera, il sistema deve poter controllare una fonte o dichiarare di non poter verificare.",
       "terms": [
@@ -1293,7 +1327,9 @@
         "vera",
         "verificare"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-5204e7bffe4d",
@@ -1332,7 +1368,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "Le prestazioni percepite di un prodotto AI non dipendono solo dal modello. L'harness comprende strumenti, memoria, regole operative, ciclo di esecuzione, verifica e accesso ai dati.",
       "terms": [
@@ -1361,7 +1397,9 @@
         "un",
         "verifica"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-acb27a311872",
@@ -1400,7 +1438,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 6,
       "text": "Un agente puo essere rappresentato cosi:",
       "terms": [
@@ -1411,7 +1449,9 @@
         "rappresentato",
         "un"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-417dd4b1db51",
@@ -1450,7 +1490,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 9,
       "text": "`modello + contesto + strumenti + memoria + ciclo plan/act/observe + controlli`",
       "terms": [
@@ -1481,7 +1521,9 @@
           "score": 0.1111,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-cfb0e1eb48ed",
@@ -1520,7 +1562,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 30,
       "text": "La stessa rete neurale puo comportarsi in modo molto diverso se viene collegata a file, terminale, database, web o servizi esterni. Per questo l'architettura deve essere valutata come sistema completo.",
       "terms": [
@@ -1580,7 +1622,9 @@
           "score": 0.0952,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-cf045e485896",
@@ -1619,7 +1663,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 64,
       "text": "| Metodo | Usarlo quando | Limite principale | |---|---|---| | Persona | servono giudizio, responsabilita o gestione dell'ambiguita | costo, lentezza e scarsa scalabilita | | Regola o codice | la logica e esplicita, stabile e deterministica | non generalizza casi imprevisti | | Machine learning | esistono pattern in dati strutturati e servono previsioni | drift e spiegabilita variabile | | Generative AI o agente | input non strutturati, interpretazione e sintesi | non determinismo, costo e rischio operativo |",
       "terms": [
@@ -1698,7 +1742,9 @@
           "score": 0.0714,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-6880820711c4",
@@ -1737,7 +1783,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 19,
       "text": "Non sono gradini obbligatori. La domanda corretta e quale metodo minimizza il rischio e la complessita per quel problema.",
       "terms": [
@@ -1759,7 +1805,9 @@
         "rischio",
         "sono"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-d9f17d3e0321",
@@ -1798,7 +1846,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 23,
       "text": "Le business rules producono un risultato prevedibile da condizioni esplicite. Gli agenti interpretano contesto e possono gestire casi che non erano stati previsti.",
       "terms": [
@@ -1851,7 +1899,9 @@
           "score": 0.125,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-1600a44400d6",
@@ -1890,7 +1940,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 4,
       "text": "Un'architettura ibrida usa spesso:",
       "terms": [
@@ -1899,7 +1949,9 @@
         "un'architettura",
         "usa"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-0428c7ea488b",
@@ -1938,7 +1990,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 30,
       "text": "1. regole per i casi semplici, sensibili o ad alta certezza; 2. agente per interpretare input ambigui o non strutturati; 3. regole finali e approvazione umana prima di un'azione irreversibile.",
       "terms": [
@@ -1995,7 +2047,9 @@
           "score": 0.0625,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-512b33f2d4f5",
@@ -2034,7 +2088,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 17,
       "text": "Questo evita di usare un modello probabilistico per una decisione che richiede logica booleana e audit deterministico.",
       "terms": [
@@ -2065,7 +2119,9 @@
           "score": 0.0909,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-d9e4d03d4454",
@@ -2104,7 +2160,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 31,
       "text": "Una skill contiene conoscenza procedurale: passi, condizioni, esempi, errori frequenti e criteri di escalation. Il suo valore e il modo specifico di svolgere un compito, non la ripetizione di istruzioni generiche.",
       "terms": [
@@ -2161,7 +2217,9 @@
           "score": 0.0526,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-2dc8a4b08f85",
@@ -2200,7 +2258,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "Model Context Protocol collega un agente a sistemi esterni tramite server che espongono strumenti. La skill puo dire cosa controllare; MCP fornisce il collegamento per farlo.",
       "terms": [
@@ -2256,7 +2314,9 @@
           "score": 0.2,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-0a56fe16afad",
@@ -2295,7 +2355,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 18,
       "text": "RAG recupera contenuto informativo al momento della richiesta. E adatto a documenti, policy, manuali e fonti che cambiano.",
       "terms": [
@@ -2342,7 +2402,9 @@
           "score": 0.0833,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-a41906dd2e85",
@@ -2381,7 +2443,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 23,
       "text": "La memoria conserva informazioni utili tra richieste o sessioni. Non dovrebbe diventare un deposito indistinto: servono scopo, durata, proprietario e regole di cancellazione.",
       "terms": [
@@ -2409,7 +2471,9 @@
         "un",
         "utili"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-efc170da1d6f",
@@ -2448,7 +2512,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 38,
       "text": "Un catalogo di skill non dovrebbe caricare tutte le istruzioni nel contesto iniziale. E preferibile caricare prima nome e descrizione, poi il corpo della skill quando il compito la richiede, e infine riferimenti o script solo quando necessari.",
       "terms": [
@@ -2510,7 +2574,9 @@
           "score": 0.0476,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-d4978af7f66a",
@@ -2549,7 +2615,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 31,
       "text": "Lo stesso principio vale per la Bibbia: l'indice deve aiutare a trovare il capitolo, il capitolo deve fornire il concetto, e le fonti devono essere consultate solo per verifica o approfondimento.",
       "terms": [
@@ -2580,7 +2646,9 @@
         "vale",
         "verifica"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-1f4ddca88171",
@@ -2611,7 +2679,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 4,
       "text": "La relazione corretta e:",
       "terms": [
@@ -2620,7 +2688,9 @@
         "la",
         "relazione"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-c2b3ae4cee8b",
@@ -2651,7 +2721,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 9,
       "text": "`rischio -> requisiti -> architettura -> implementazione -> verifica`",
       "terms": [
@@ -2662,7 +2732,9 @@
         "rischio",
         "verifica"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-a3e4fd03a571",
@@ -2693,7 +2765,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 31,
       "text": "Un principio come trasparenza o explainability e una dichiarazione di intenti. Per diventare utile deve essere tradotto in requisiti funzionali e non funzionali che un team possa implementare, testare e contrattualizzare.",
       "terms": [
@@ -2750,7 +2822,9 @@
           "score": 0.0667,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-ea572227d14d",
@@ -2781,7 +2855,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 33,
       "text": "Il livello di controllo deve essere proporzionato alla conseguenza dell'errore. Una raccomandazione di intrattenimento puo richiedere una spiegazione semplice; una decisione sanitaria, finanziaria o di accesso richiede tracciabilita, provenienza, test, riesame e responsabilita.",
       "terms": [
@@ -2840,7 +2914,9 @@
           "score": 0.0455,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-19dad4f5491f",
@@ -2871,7 +2947,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 29,
       "text": "Le istruzioni nel prompt possono orientare il modello, ma non sono un controllo sufficiente. Un modello probabilistico puo interpretare una regola in modo inatteso o privilegiare il raggiungimento dell'obiettivo.",
       "terms": [
@@ -2927,7 +3003,9 @@
           "score": 0.0588,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-33376e5c24b9",
@@ -2958,7 +3036,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 9,
       "text": "I confini critici devono essere applicati fuori dal modello:",
       "terms": [
@@ -2972,7 +3050,9 @@
         "i",
         "modello"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-a6750d4f9c18",
@@ -3003,7 +3083,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 47,
       "text": "- autorizzazioni esplicite e a privilegio minimo; - allowlist di strumenti e destinazioni; - sandbox e isolamento di rete; - conferma umana per azioni irreversibili; - logging completo delle chiamate e dei risultati; - limiti di costo, tempo, dati e numero di tentativi; - revoca immediata dell'accesso.",
       "terms": [
@@ -3051,7 +3131,9 @@
           "score": 0.037,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-e611cf14a22e",
@@ -3082,7 +3164,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 13,
       "text": "Un agente va trattato come un'identita privilegiata, non come un semplice testo generato.",
       "terms": [
@@ -3098,7 +3180,9 @@
         "un'identita",
         "va"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-538baa402e7a",
@@ -3129,7 +3213,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 34,
       "text": "Prompt injection, contenuti ostili e tool troppo permissivi possono spingere l'agente verso azioni non previste. La domanda non e solo se il modello sa rifiutare una richiesta, ma cosa puo fare se viene manipolato.",
       "terms": [
@@ -3190,7 +3274,9 @@
           "score": 0.087,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-23aae619a461",
@@ -3221,7 +3307,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 6,
       "text": "La difesa deve considerare l'intera catena:",
       "terms": [
@@ -3232,7 +3318,9 @@
         "l'intera",
         "la"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-71a6fe338631",
@@ -3263,7 +3351,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "1. contenuto ricevuto; 2. modello e istruzioni; 3. strumenti disponibili; 4. permessi dell'identita; 5. rete e sistemi raggiungibili; 6. validazione dell'azione; 7. audit e risposta all'incidente.",
       "terms": [
@@ -3309,7 +3397,9 @@
           "score": 0.0625,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-cbfbcbeeee41",
@@ -3340,7 +3430,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 11,
       "text": "La sicurezza del modello non sostituisce la sicurezza dell'ambiente di esecuzione.",
       "terms": [
@@ -3354,7 +3444,9 @@
         "sicurezza",
         "sostituisce"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-28435f31ff00",
@@ -3385,7 +3477,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 24,
       "text": "Un AI management system deve coprire contesto, responsabilita, valutazione del rischio, operazioni, monitoraggio, audit e miglioramento. Non e una checklist da compilare una volta.",
       "terms": [
@@ -3437,7 +3529,9 @@
           "score": 0.1429,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-5f7fd08b0a31",
@@ -3468,7 +3562,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 5,
       "text": "Per ogni sistema occorre sapere:",
       "terms": [
@@ -3478,7 +3572,9 @@
         "sapere",
         "sistema"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-060c02707287",
@@ -3509,7 +3605,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 51,
       "text": "- chi e il proprietario; - quali dati usa e dove transitano; - quali decisioni puo influenzare; - quali sono i rischi accettati; - come viene valutato prima e dopo il rilascio; - cosa accade quando il modello cambia o fallisce; - come una persona puo contestare o correggere il risultato.",
       "terms": [
@@ -3549,7 +3645,9 @@
         "valutato",
         "viene"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-5e1411974169",
@@ -3580,7 +3678,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 15,
       "text": "Un benchmark del modello non dimostra che l'applicazione sia pronta. La valutazione deve coprire almeno:",
       "terms": [
@@ -3600,7 +3698,9 @@
         "un",
         "valutazione"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-88254f2e953c",
@@ -3631,7 +3731,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 39,
       "text": "- accuratezza e groundedness; - latenza e capacita sotto carico; - costo per richiesta e costo operativo; - sicurezza e resistenza agli attacchi; - qualita delle citazioni; - comportamento sui casi limite; - risultati effettivi per utenti e organizzazione.",
       "terms": [
@@ -3663,7 +3763,9 @@
         "sui",
         "utenti"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-40dae9e52287",
@@ -3694,7 +3796,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "Un sistema deve essere verificato con domande, traffico e vincoli simili a quelli reali. LLM-as-a-judge puo aiutare, ma richiede rubriche chiare e controllo umano sui punteggi.",
       "terms": [
@@ -3724,7 +3826,9 @@
         "verificato",
         "vincoli"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-ffa3a325ae35",
@@ -3759,7 +3863,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 16,
       "text": "Un sistema AI per lo sviluppo dovrebbe prima costruire comprensione e solo dopo modificare i file.",
       "terms": [
@@ -3797,7 +3901,9 @@
           "score": 0.125,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-0f4b075c6ad8",
@@ -3832,7 +3938,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 7,
       "text": "Prima di proporre una patch deve identificare:",
       "terms": [
@@ -3861,7 +3967,9 @@
           "score": 0.3333,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-1d60712b00eb",
@@ -3896,7 +4004,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 43,
       "text": "- il problema e il risultato atteso; - i file e i test pertinenti; - le convenzioni architetturali del repository; - i servizi, tipi e utility gia esistenti; - i confini che non deve oltrepassare; - i controlli necessari per verificare la modifica.",
       "terms": [
@@ -3957,7 +4065,9 @@
           "score": 0.1,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-af5bc14e9c33",
@@ -3992,7 +4102,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 22,
       "text": "Un piano breve e verificabile permette alla persona responsabile di correggere la direzione prima che il codice renda costose le decisioni sbagliate.",
       "terms": [
@@ -4019,7 +4129,9 @@
         "un",
         "verificabile"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-51a827324d01",
@@ -4054,7 +4166,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 20,
       "text": "Codice leggibile, testabile e manutenibile resta importante. Nell'era dell'AI, pero, la qualita non coincide con la correttezza locale del codice.",
       "terms": [
@@ -4077,7 +4189,9 @@
         "resta",
         "testabile"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-a5271d44720f",
@@ -4112,7 +4226,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 13,
       "text": "Una modifica puo compilare e superare un test, ma essere comunque sbagliata se:",
       "terms": [
@@ -4155,7 +4269,9 @@
           "score": 0.1429,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-efae895b7798",
@@ -4190,7 +4306,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 39,
       "text": "- duplica una utility esistente; - introduce una dipendenza non necessaria; - bypassa un service layer; - ignora permessi, logging o gestione degli errori; - contraddice l'architettura del repository; - risolve il caso felice ma peggiora il comportamento operativo.",
       "terms": [
@@ -4252,7 +4368,9 @@
           "score": 0.0833,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-2529ca607885",
@@ -4287,7 +4405,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 12,
       "text": "La domanda non e soltanto \"funziona?\". E anche \"appartiene a questo sistema?\".",
       "terms": [
@@ -4303,7 +4421,9 @@
         "sistema",
         "soltanto"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-2ff64f1eed66",
@@ -4338,7 +4458,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 17,
       "text": "Il codice generato non e codice fidato. La verifica deve includere il risultato e le sue dipendenze.",
       "terms": [
@@ -4357,7 +4477,9 @@
         "sue",
         "verifica"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-9852afd5a1e6",
@@ -4392,14 +4514,16 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 2,
       "text": "Controllare almeno:",
       "terms": [
         "almeno",
         "controllare"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-e25772f8839b",
@@ -4434,7 +4558,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 39,
       "text": "- autenticazione e autorizzazioni; - esposizione o esfiltrazione di dati; - gestione di input non validi; - comportamento in caso di errore; - segreti incorporati; - pacchetti, licenze e vulnerabilita delle dipendenze; - test statici, dinamici e di integrazione.",
       "terms": [
@@ -4492,7 +4616,9 @@
           "score": 0.0476,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-9307038f4f18",
@@ -4527,7 +4653,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 15,
       "text": "La sicurezza lasciata alla fine diventa un collo di bottiglia proprio quando la generazione accelera.",
       "terms": [
@@ -4555,7 +4681,9 @@
           "score": 0.1,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-18fc85db1946",
@@ -4590,7 +4718,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 23,
       "text": "Metriche HTTP come codice di risposta, latenza e tasso di errore non spiegano da sole perche un agente abbia prodotto una risposta sbagliata.",
       "terms": [
@@ -4616,7 +4744,9 @@
         "un",
         "una"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-d95e81f3ee21",
@@ -4651,7 +4781,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 8,
       "text": "L'osservabilita deve rendere visibili, secondo i permessi applicabili:",
       "terms": [
@@ -4664,7 +4794,9 @@
         "secondo",
         "visibili"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-55d471d4132f",
@@ -4699,7 +4831,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 37,
       "text": "- input e output rilevanti; - prompt e versione delle istruzioni; - modello e configurazione usati; - strumenti chiamati e relativi risultati; - passaggi tra agenti; - token, costi e latenza; - errori, retry e interventi umani.",
       "terms": [
@@ -4755,7 +4887,9 @@
           "score": 0.087,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-4fbd1d501c0f",
@@ -4790,7 +4924,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 15,
       "text": "Il tracing serve a ricostruire il percorso completo, non a registrare indiscriminatamente ogni dato sensibile.",
       "terms": [
@@ -4825,7 +4959,9 @@
           "score": 0.1111,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-855c763a70ee",
@@ -4860,7 +4996,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 21,
       "text": "Un benchmark generale non dimostra che un'applicazione funzioni nel proprio ambiente. La valutazione deve combinare modello, harness, dati e traffico realistico.",
       "terms": [
@@ -4911,7 +5047,9 @@
           "score": 0.0667,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-3ef6d2f9270e",
@@ -4946,14 +5084,16 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 2,
       "text": "Misurare almeno:",
       "terms": [
         "almeno",
         "misurare"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-8c4ae5a3269e",
@@ -4988,7 +5128,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 48,
       "text": "- correttezza rispetto a una risposta attesa o a una rubrica; - groundedness e qualita delle citazioni; - robustezza su casi limite e input avversari; - latenza e throughput; - costo per richiesta e per risultato utile; - tasso di escalation e intervento umano; - regressioni tra versioni.",
       "terms": [
@@ -5053,7 +5193,9 @@
           "score": 0.0769,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-7d75d067e0a1",
@@ -5088,7 +5230,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "Un giudice automatico puo ridurre il lavoro di triage, ma va calibrato contro valutazioni umane esperte. Il suo punteggio e un segnale, non una prova assoluta.",
       "terms": [
@@ -5117,7 +5259,9 @@
         "va",
         "valutazioni"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-9a8c9f56e033",
@@ -5152,7 +5296,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 16,
       "text": "Numero di token, richieste o suggerimenti accettati sono metriche di attivit\u00e0. Non dimostrano da sole valore.",
       "terms": [
@@ -5197,7 +5341,9 @@
           "score": 0.1,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-83b89f2cbf72",
@@ -5232,7 +5378,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 9,
       "text": "Metriche piu significative dipendono dal processo, ma possono includere:",
       "terms": [
@@ -5246,7 +5392,9 @@
         "processo",
         "significative"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-22e5ff6d68bd",
@@ -5281,7 +5429,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 36,
       "text": "- tempo risparmiato senza aumento del rework; - deployment completati correttamente; - difetti o vulnerabilita risolti; - tempo di risposta migliorato; - casi risolti al primo tentativo; - costo per outcome; - qualita percepita dagli utenti.",
       "terms": [
@@ -5339,7 +5487,9 @@
           "score": 0.0455,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-8064dcb65d7b",
@@ -5374,7 +5524,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 23,
       "text": "L'obiettivo non e usare piu AI o meno AI in astratto. E ottenere risultati migliori con un livello di rischio e costo accettabile.",
       "terms": [
@@ -5399,7 +5549,9 @@
         "un",
         "usare"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-c7254c2f1931",
@@ -5434,7 +5586,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 27,
       "text": "Un sistema AI non migliora solo scegliendo un modello piu grande. Dati incompleti, duplicati, obsoleti o privi di contesto producono risposte fragili anche con un modello capace.",
       "terms": [
@@ -5463,7 +5615,9 @@
         "solo",
         "un"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-ef263b682b44",
@@ -5498,7 +5652,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 4,
       "text": "Prima dell'indicizzazione occorre conoscere:",
       "terms": [
@@ -5507,7 +5661,9 @@
         "occorre",
         "prima"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-d766f33ec330",
@@ -5542,7 +5698,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 32,
       "text": "- origine e proprietario del dato; - data e versione; - formato e struttura; - livello di affidabilita; - permessi di accesso; - frequenza di aggiornamento; - eventuali dati personali o riservati.",
       "terms": [
@@ -5594,7 +5750,9 @@
           "score": 0.0588,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-4976ca569a14",
@@ -5629,7 +5787,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 29,
       "text": "Un documento non va trattato come una stringa da tagliare a intervalli fissi. Il significato puo dipendere da titolo, sezione, tabella, definizione, nota, data o relazione con altre parti.",
       "terms": [
@@ -5687,7 +5845,9 @@
           "score": 0.0556,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-8752751e176e",
@@ -5722,7 +5882,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 5,
       "text": "Un blocco utile dovrebbe essere:",
       "terms": [
@@ -5732,7 +5892,9 @@
         "un",
         "utile"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-e49a1c0e909c",
@@ -5767,7 +5929,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 39,
       "text": "- abbastanza completo da rispondere a una domanda; - abbastanza piccolo da essere recuperato con precisione; - collegato alla sezione e al documento di origine; - accompagnato da versione, stato e metadati; - separato da contenuti incompatibili o superati.",
       "terms": [
@@ -5802,7 +5964,9 @@
         "una",
         "versione"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-f0948f9994a4",
@@ -5837,7 +6001,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 22,
       "text": "La segmentazione automatica e un punto di partenza. I documenti complessi richiedono controllo della struttura e, quando serve, navigazione tra blocchi collegati.",
       "terms": [
@@ -5863,7 +6027,9 @@
         "tra",
         "un"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-fc93ed41b8ed",
@@ -5898,7 +6064,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 31,
       "text": "Il retrieval augmented generation recupera fonti esterne e le inserisce nel contesto del modello. Questo riduce la probabilita di inventare informazioni, ma restano possibili errori di estrazione, ricerca, selezione e sintesi.",
       "terms": [
@@ -5957,7 +6123,9 @@
           "score": 0.1364,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-3db8d6ae8625",
@@ -5992,7 +6160,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 6,
       "text": "Una pipeline deve quindi valutare separatamente:",
       "terms": [
@@ -6028,7 +6196,9 @@
           "score": 0.25,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-3c257e6c2765",
@@ -6063,7 +6233,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 37,
       "text": "1. recall: la fonte corretta viene recuperata? 2. precision: i risultati sono pertinenti? 3. grounding: la risposta deriva davvero dalle fonti? 4. citation: il lettore puo verificare l'affermazione? 5. access control: il sistema evita fonti non autorizzate?",
       "terms": [
@@ -6127,7 +6297,9 @@
           "score": 0.0417,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-b85cf2ba4ea6",
@@ -6162,7 +6334,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "La ricerca lessicale e necessaria per acronimi, codici, standard e nomi esatti. La ricerca semantica aiuta quando la domanda usa parole diverse da quelle del documento.",
       "terms": [
@@ -6189,7 +6361,9 @@
         "standard",
         "usa"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-a7439416c97d",
@@ -6224,7 +6398,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 4,
       "text": "Una ricerca robusta combina:",
       "terms": [
@@ -6233,7 +6407,9 @@
         "robusta",
         "una"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-c49aa6f7f607",
@@ -6268,7 +6444,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 21,
       "text": "- indice testuale; - embeddings; - filtri sui metadati; - reranking; - espansione verso concetti collegati; - citazioni e contesto circostante.",
       "terms": [
@@ -6314,7 +6490,9 @@
           "score": 0.0714,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-0509583a6ed7",
@@ -6349,7 +6527,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 14,
       "text": "Nessun singolo punteggio deve decidere da solo la risposta in domini ad alto rischio.",
       "terms": [
@@ -6368,7 +6546,9 @@
         "singolo",
         "solo"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-d4365ffe9b37",
@@ -6403,7 +6583,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 14,
       "text": "Il RAG fornisce conoscenza dichiarativa. Non sostituisce automaticamente procedure, autorizzazioni, regole o memoria operativa.",
       "terms": [
@@ -6447,7 +6627,9 @@
           "score": 0.0909,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-d4c530e2f812",
@@ -6482,7 +6664,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 35,
       "text": "Usare una skill per una procedura, regole deterministiche per un vincolo, MCP per collegarsi a un sistema e RAG per recuperare documentazione. La qualita nasce dalla composizione corretta, non dal mettere tutto nello stesso prompt.",
       "terms": [
@@ -6542,7 +6724,9 @@
           "score": 0.087,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-077558c40bb6",
@@ -6577,7 +6761,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "Un agente non e semplicemente un modello che risponde. E un sistema che riceve un obiettivo, pianifica passi, usa strumenti, osserva risultati e aggiorna il piano.",
       "terms": [
@@ -6602,7 +6786,9 @@
         "un",
         "usa"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-649ba45a6018",
@@ -6637,14 +6823,16 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 2,
       "text": "Schema minimo:",
       "terms": [
         "minimo",
         "schema"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-b2b3cc5cfa42",
@@ -6679,7 +6867,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 12,
       "text": "`obiettivo -> piano -> azione -> osservazione -> verifica -> prossimo passo`",
       "terms": [
@@ -6692,7 +6880,9 @@
         "prossimo",
         "verifica"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-6c6a66db5a80",
@@ -6727,7 +6917,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 19,
       "text": "Il ciclo aumenta la capacita, ma anche il numero di punti in cui possono comparire errori o azioni indesiderate.",
       "terms": [
@@ -6750,7 +6940,9 @@
         "possono",
         "punti"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-af12e48c90f6",
@@ -6785,7 +6977,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 23,
       "text": "Una skill insegna come eseguire un compito specifico. Il valore non sta in istruzioni generiche come \"gestisci gli errori\", ma in conoscenza concreta:",
       "terms": [
@@ -6836,7 +7028,9 @@
           "score": 0.0769,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-b100efce6c41",
@@ -6871,7 +7065,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 32,
       "text": "- ordine dei passaggi; - condizioni per scegliere un percorso; - eccezioni e gotcha; - criteri di successo; - criteri di stop; - momento in cui chiedere aiuto umano; - esempi verificati.",
       "terms": [
@@ -6925,7 +7119,9 @@
           "score": 0.0588,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-a16ca123aeb5",
@@ -6960,7 +7156,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 16,
       "text": "Le correzioni manuali ripetute sono segnali di conoscenza procedurale mancante e dovrebbero diventare parte della skill.",
       "terms": [
@@ -7006,7 +7202,9 @@
           "score": 0.0909,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-a6d453ccf115",
@@ -7041,7 +7239,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 35,
       "text": "Un agente con molte skill non deve caricare tutte le istruzioni nel contesto iniziale. Prima usa nome e descrizione per decidere quali skill possono servire, poi carica le istruzioni e infine eventuali riferimenti o script.",
       "terms": [
@@ -7102,7 +7300,9 @@
           "score": 0.0455,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-a0137cfc2a11",
@@ -7137,7 +7337,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 31,
       "text": "Questo riduce rumore e costo, ma rende la descrizione una parte critica del comportamento: se e vaga, la skill puo non attivarsi; se e troppo ampia, puo attivarsi nel momento sbagliato.",
       "terms": [
@@ -7192,7 +7392,9 @@
           "score": 0.0556,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-fbb992b7e0f9",
@@ -7227,7 +7429,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "Gli strumenti danno all'agente la possibilita di agire su file, terminale, database, web e servizi esterni. MCP puo standardizzare il collegamento tra l'harness e questi sistemi.",
       "terms": [
@@ -7282,7 +7484,9 @@
           "score": 0.1579,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-c82ec85868ec",
@@ -7317,7 +7521,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 4,
       "text": "Ogni strumento deve avere:",
       "terms": [
@@ -7326,7 +7530,9 @@
         "ogni",
         "strumento"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-eb052719fee7",
@@ -7361,7 +7567,7 @@
         }
       ],
       "provenance_status": "candidate-timestamps",
-      "status": "draft",
+      "status": "approved",
       "word_count": 30,
       "text": "- scopo limitato; - schema di input e output; - permessi minimi; - timeout e limiti di costo; - gestione degli errori; - logging; - proprietario e ciclo di revisione.",
       "terms": [
@@ -7411,7 +7617,9 @@
           "score": 0.0588,
           "status": "candidate"
         }
-      ]
+      ],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-2b4e56658eea",
@@ -7446,7 +7654,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 19,
       "text": "Un catalogo grande di strumenti non e automaticamente migliore: aumenta il rischio di scelta errata e di combinazioni inattese.",
       "terms": [
@@ -7467,7 +7675,9 @@
         "strumenti",
         "un"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-b8cbca415ceb",
@@ -7502,7 +7712,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 8,
       "text": "La memoria di un agente deve distinguere almeno:",
       "terms": [
@@ -7515,7 +7725,9 @@
         "memoria",
         "un"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-c1162b384c66",
@@ -7550,7 +7762,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 19,
       "text": "- contesto temporaneo della richiesta; - memoria della sessione; - conoscenza persistente del progetto; - preferenze o dati personali.",
       "terms": [
@@ -7570,7 +7782,9 @@
         "sessione",
         "temporaneo"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-47b5bb0c00fa",
@@ -7605,7 +7819,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 24,
       "text": "Ogni memoria deve avere durata, fonte, livello di fiducia e regola di cancellazione. Conservare tutto senza controllo crea rumore, rischio privacy e informazioni obsolete.",
       "terms": [
@@ -7632,7 +7846,9 @@
         "senza",
         "tutto"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-4f8aee92b8b9",
@@ -7667,7 +7883,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 20,
       "text": "L'intervento umano non e un fallimento dell'agente. E un controllo architetturale per i casi ambigui, ad alto impatto o irreversibili.",
       "terms": [
@@ -7690,7 +7906,9 @@
         "umano",
         "un"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-34b5dc633412",
@@ -7725,7 +7943,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 6,
       "text": "Definire in anticipo quando l'agente deve:",
       "terms": [
@@ -7736,7 +7954,9 @@
         "l'agente",
         "quando"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-e2b99492fd9c",
@@ -7771,7 +7991,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 20,
       "text": "- fermarsi; - chiedere conferma; - proporre ma non eseguire; - escalare a un responsabile; - annullare o ripristinare un'azione.",
       "terms": [
@@ -7792,7 +8012,9 @@
         "un",
         "un'azione"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-37ad5f47da47",
@@ -7827,7 +8049,7 @@
         }
       ],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 11,
       "text": "La soglia deve dipendere dal rischio, non dalla comodita della demo.",
       "terms": [
@@ -7843,7 +8065,9 @@
         "rischio",
         "soglia"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-a143a4285d04",
@@ -7853,7 +8077,7 @@
       "source_file": "07-contenuti-temporali.md",
       "source_references": [],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 21,
       "text": "News, release di modelli, partnership, acquisizioni e report annuali possono essere utili, ma non hanno la stessa stabilita dei principi tecnici.",
       "terms": [
@@ -7879,7 +8103,9 @@
         "tecnici",
         "utili"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-778d60633b6a",
@@ -7889,7 +8115,7 @@
       "source_file": "07-contenuti-temporali.md",
       "source_references": [],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 4,
       "text": "Una notizia deve mantenere:",
       "terms": [
@@ -7898,7 +8124,9 @@
         "notizia",
         "una"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-81ed0110ae3e",
@@ -7908,7 +8136,7 @@
       "source_file": "07-contenuti-temporali.md",
       "source_references": [],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "- data di pubblicazione; - fonte originale; - soggetti coinvolti; - affermazioni riportate separatamente dai commenti; - stato di verifica; - data di revisione o scadenza.",
       "terms": [
@@ -7931,7 +8159,9 @@
         "stato",
         "verifica"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-21ed5905debb",
@@ -7941,7 +8171,7 @@
       "source_file": "07-contenuti-temporali.md",
       "source_references": [],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 17,
       "text": "Un caso di cronaca non diventa automaticamente una regola generale. Per trasformarlo in conoscenza permanente occorre estrarre:",
       "terms": [
@@ -7963,7 +8193,9 @@
         "un",
         "una"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-809d8b0857a1",
@@ -7973,7 +8205,7 @@
       "source_file": "07-contenuti-temporali.md",
       "source_references": [],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 33,
       "text": "1. che cosa e successo; 2. quali condizioni lo hanno reso possibile; 3. quali evidenze sono disponibili; 4. quali limiti ha l'analogia; 5. quale controllo puo essere riutilizzato; 6. quali aspetti restano incerti.",
       "terms": [
@@ -8008,7 +8240,9 @@
         "sono",
         "successo"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-f89d0736ae5b",
@@ -8018,7 +8252,7 @@
       "source_file": "07-contenuti-temporali.md",
       "source_references": [],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 17,
       "text": "Il caso resta archiviato come esempio, mentre il principio generalizzato entra nei capitoli stabili solo dopo revisione.",
       "terms": [
@@ -8039,7 +8273,9 @@
         "solo",
         "stabili"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-4cc0ad67b5cf",
@@ -8049,7 +8285,7 @@
       "source_file": "07-contenuti-temporali.md",
       "source_references": [],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 21,
       "text": "Nome, versione, prestazioni e costi dei modelli cambiano rapidamente. Un confronto deve indicare data, benchmark, configurazione, hardware e condizioni di test.",
       "terms": [
@@ -8074,7 +8310,9 @@
         "un",
         "versione"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-e6c7a34e6bd2",
@@ -8084,7 +8322,7 @@
       "source_file": "07-contenuti-temporali.md",
       "source_references": [],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 26,
       "text": "Un risultato di leaderboard non dimostra da solo che un modello sia migliore nel sistema reale. Vanno considerati accuratezza, costo, latenza, strumenti, contesto, sicurezza e manutenzione.",
       "terms": [
@@ -8114,7 +8352,9 @@
         "un",
         "vanno"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-0d4173201007",
@@ -8124,7 +8364,7 @@
       "source_file": "07-contenuti-temporali.md",
       "source_references": [],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 6,
       "text": "Gli aggiornamenti dovrebbero seguire questo ciclo:",
       "terms": [
@@ -8135,7 +8375,9 @@
         "questo",
         "seguire"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-1d13ef1e79d4",
@@ -8145,7 +8387,7 @@
       "source_file": "07-contenuti-temporali.md",
       "source_references": [],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 43,
       "text": "- acquisire la fonte; - registrare data e provenienza; - estrarre fatti e dichiarazioni; - separare il commento dall'evidenza; - verificare cosa e ancora valido; - aggiornare il blocco interessato; - lasciare traccia della modifica in Git; - rieseguire le domande di valutazione.",
       "terms": [
@@ -8183,7 +8425,9 @@
         "valutazione",
         "verificare"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     },
     {
       "id": "kb-e9ca5fb7a6ff",
@@ -8193,7 +8437,7 @@
       "source_file": "07-contenuti-temporali.md",
       "source_references": [],
       "provenance_status": "title-level",
-      "status": "draft",
+      "status": "approved",
       "word_count": 14,
       "text": "Cancellare una notizia superata non deve cancellare il principio verificato che ne e derivato.",
       "terms": [
@@ -8211,7 +8455,9 @@
         "una",
         "verificato"
       ],
-      "source_spans": []
+      "source_spans": [],
+      "approved_by": "Andrea",
+      "approved_on": "2026-09-22"
     }
   ],
   "provenance": {
@@ -8220,5 +8466,11 @@
     "note": "Candidate spans require manual review before publication as precise citations.",
     "mapped_block_count": 52,
     "candidate_span_count": 144
+  },
+  "approval": {
+    "status": "approved",
+    "approver": "Andrea",
+    "approved_on": "2026-09-22",
+    "note": "Editorial content approved; candidate timestamp spans still require source-level verification."
   }
 }

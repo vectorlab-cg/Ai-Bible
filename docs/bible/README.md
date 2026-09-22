@@ -24,4 +24,4 @@ Questa e la prima bozza della conoscenza derivata dalle trascrizioni IBM.
 
 La progettazione dell'indice e della ricerca e descritta in [docs/indexing-design.md](../indexing-design.md). La Bibbia finale sara un corpus unico, con ricerca testuale e semantica, filtri e citazioni verificabili.
 
-Stato: prima sintesi editoriale. Ogni capitolo richiede revisione delle fonti e verifica delle affermazioni prima dell'approvazione.
+Stato: contenuti editoriali approvati da Andrea. La verifica puntuale dei timestamp e delle fonti resta un'attivita tecnica separata.

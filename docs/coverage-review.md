@@ -26,6 +26,8 @@ La provenienza dei blocchi editoriali e ora presente nell'indice locale a livell
 
 La classificazione concettuale copre tutti i 383 segmenti. Un segmento di chiusura video e marcato come esclusione editoriale, quindi copertura completa non significa che ogni frase verra pubblicata nella Bibbia.
 
+Andrea ha approvato editorialmente i 123 blocchi presenti nell'indice. I timestamp candidati restano da verificare contro le trascrizioni prima di essere presentati come citazioni precise.
+
 Un primo mapping automatico ha trovato 144 intervalli timestamp candidati per 52 blocchi. Lo stato resta `candidate`: il matching lessicale tra sintesi italiana e trascrizioni inglesi non e sufficiente per approvare una citazione senza revisione.
 
 ## Prossimo controllo

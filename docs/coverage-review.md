@@ -7,8 +7,8 @@ La matrice `docs/source-coverage.json` collega le fonti ai segmenti di lavorazio
 - fonti presenti: `65`;
 - fonti con almeno un segmento: `65`;
 - segmenti totali: `383`;
-- segmenti con almeno un candidato concettuale: `367`;
-- segmenti ancora da classificare: `16`.
+- segmenti con almeno un candidato concettuale: `383`;
+- segmenti ancora da classificare: `0`;
 
 ## Interpretazione
 
@@ -23,6 +23,8 @@ La Bibbia sara completa solo quando ogni segmento utile avra uno di questi esiti
 - marcato per revisione manuale.
 
 La provenienza dei blocchi editoriali e ora presente nell'indice locale a livello di fonte: 112 blocchi hanno 670 riferimenti validi. Questo non equivale ancora a citazioni puntuali con timestamp.
+
+La classificazione concettuale copre tutti i 383 segmenti. Un segmento di chiusura video e marcato come esclusione editoriale, quindi copertura completa non significa che ogni frase verra pubblicata nella Bibbia.
 
 Un primo mapping automatico ha trovato 144 intervalli timestamp candidati per 52 blocchi. Lo stato resta `candidate`: il matching lessicale tra sintesi italiana e trascrizioni inglesi non e sufficiente per approvare una citazione senza revisione.
 

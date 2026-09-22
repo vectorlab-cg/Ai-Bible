@@ -4,7 +4,7 @@
   "mapped_source_count": 65,
   "unmapped_source_count": 0,
   "segment_count": 383,
-  "mapped_segment_count": 367,
+  "mapped_segment_count": 383,
   "records": [
     {
       "source_id": "4c8e57b1394b7d39",
@@ -112,6 +112,10 @@
       "concepts": [
         {
           "concept_id": "security",
+          "segment_count": 10
+        },
+        {
+          "concept_id": "temporal-news",
           "segment_count": 10
         },
         {
@@ -324,6 +328,10 @@
       "mapped_segment_count": 10,
       "concepts": [
         {
+          "concept_id": "temporal-news",
+          "segment_count": 10
+        },
+        {
           "concept_id": "security",
           "segment_count": 9
         },
@@ -393,6 +401,10 @@
           "segment_count": 2
         },
         {
+          "concept_id": "temporal-news",
+          "segment_count": 2
+        },
+        {
           "concept_id": "architecture",
           "segment_count": 1
         },
@@ -443,6 +455,10 @@
         },
         {
           "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "temporal-news",
           "segment_count": 1
         }
       ],
@@ -537,6 +553,10 @@
         },
         {
           "concept_id": "security",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "temporal-news",
           "segment_count": 1
         }
       ],
@@ -782,6 +802,10 @@
           "segment_count": 12
         },
         {
+          "concept_id": "temporal-news",
+          "segment_count": 5
+        },
+        {
           "concept_id": "ai-foundations",
           "segment_count": 4
         },
@@ -828,6 +852,10 @@
       "concepts": [
         {
           "concept_id": "cost-outcomes",
+          "segment_count": 13
+        },
+        {
+          "concept_id": "temporal-news",
           "segment_count": 13
         },
         {
@@ -969,6 +997,10 @@
           "segment_count": 14
         },
         {
+          "concept_id": "temporal-news",
+          "segment_count": 14
+        },
+        {
           "concept_id": "infrastructure",
           "segment_count": 3
         },
@@ -1053,6 +1085,10 @@
         {
           "concept_id": "security",
           "segment_count": 11
+        },
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 5
         },
         {
           "concept_id": "ai-foundations",
@@ -1201,8 +1237,12 @@
       "format": "srt",
       "sha256": "9eced878c2ed15f1bed1704858143bea6f3b1bf52ceb42257fd2712b05cd00c9",
       "segment_count": 15,
-      "mapped_segment_count": 14,
+      "mapped_segment_count": 15,
       "concepts": [
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 15
+        },
         {
           "concept_id": "infrastructure",
           "segment_count": 7
@@ -1270,8 +1310,12 @@
       "format": "srt",
       "sha256": "fea266c794db84ea255a3e752508b146e11c41b9c99dd6bae1721ccdaf3ad818",
       "segment_count": 13,
-      "mapped_segment_count": 12,
+      "mapped_segment_count": 13,
       "concepts": [
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 13
+        },
         {
           "concept_id": "infrastructure",
           "segment_count": 6
@@ -1327,8 +1371,12 @@
       "format": "srt",
       "sha256": "e526c956c036556fdb2c6ab925358c1a4940792378456708c064b9493a69b7fc",
       "segment_count": 11,
-      "mapped_segment_count": 9,
+      "mapped_segment_count": 11,
       "concepts": [
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 11
+        },
         {
           "concept_id": "architecture",
           "segment_count": 5
@@ -1473,6 +1521,10 @@
           "segment_count": 3
         },
         {
+          "concept_id": "temporal-news",
+          "segment_count": 3
+        },
+        {
           "concept_id": "agents",
           "segment_count": 2
         },
@@ -1564,8 +1616,12 @@
       "format": "srt",
       "sha256": "4dc785f8b2220ec6df6e2fb28bca7f31b0ddf13727bffd0bbd8d58eedaf1a280",
       "segment_count": 12,
-      "mapped_segment_count": 9,
+      "mapped_segment_count": 12,
       "concepts": [
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 12
+        },
         {
           "concept_id": "security",
           "segment_count": 9
@@ -1613,8 +1669,12 @@
       "format": "srt",
       "sha256": "1b6f0e84f7e89cceec54be91a1974e337f53eb1d7009d90188204f20d6b089bd",
       "segment_count": 10,
-      "mapped_segment_count": 8,
+      "mapped_segment_count": 10,
       "concepts": [
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 10
+        },
         {
           "concept_id": "infrastructure",
           "segment_count": 5
@@ -1674,8 +1734,12 @@
       "format": "srt",
       "sha256": "5058ce06ae914b294718418e32086322225c46caef46798c5c2a4ab7f50adfe3",
       "segment_count": 12,
-      "mapped_segment_count": 9,
+      "mapped_segment_count": 12,
       "concepts": [
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 12
+        },
         {
           "concept_id": "ai-foundations",
           "segment_count": 4
@@ -1746,6 +1810,10 @@
           "segment_count": 12
         },
         {
+          "concept_id": "temporal-news",
+          "segment_count": 12
+        },
+        {
           "concept_id": "cost-outcomes",
           "segment_count": 3
         },
@@ -1790,6 +1858,10 @@
       "segment_count": 11,
       "mapped_segment_count": 11,
       "concepts": [
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 11
+        },
         {
           "concept_id": "cost-outcomes",
           "segment_count": 6
@@ -1852,6 +1924,10 @@
           "segment_count": 12
         },
         {
+          "concept_id": "temporal-news",
+          "segment_count": 12
+        },
+        {
           "concept_id": "security",
           "segment_count": 11
         },
@@ -1901,6 +1977,10 @@
           "segment_count": 5
         },
         {
+          "concept_id": "temporal-news",
+          "segment_count": 2
+        },
+        {
           "concept_id": "cost-outcomes",
           "segment_count": 1
         },
@@ -1946,6 +2026,10 @@
           "segment_count": 3
         },
         {
+          "concept_id": "temporal-news",
+          "segment_count": 3
+        },
+        {
           "concept_id": "ai-foundations",
           "segment_count": 2
         },
@@ -1972,8 +2056,12 @@
       "format": "srt",
       "sha256": "355b114a67ec6e9ba4e069265a033fb6b676b957feab6a12f1dd323ba89cbd6f",
       "segment_count": 12,
-      "mapped_segment_count": 11,
+      "mapped_segment_count": 12,
       "concepts": [
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 12
+        },
         {
           "concept_id": "evaluation",
           "segment_count": 8
@@ -2119,6 +2207,10 @@
         {
           "concept_id": "security",
           "segment_count": 1
+        },
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 1
         }
       ],
       "coverage_status": "mapped"
@@ -2131,8 +2223,12 @@
       "format": "srt",
       "sha256": "a3a9eed0709d30110d09736cdac5c6c95fa7f383b0a2d4887cb636afe91394e3",
       "segment_count": 4,
-      "mapped_segment_count": 2,
+      "mapped_segment_count": 4,
       "concepts": [
+        {
+          "concept_id": "data-systems",
+          "segment_count": 4
+        },
         {
           "concept_id": "ai-foundations",
           "segment_count": 1
@@ -2164,6 +2260,10 @@
         },
         {
           "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "data-systems",
           "segment_count": 2
         },
         {
@@ -2432,6 +2532,10 @@
         {
           "concept_id": "skills-and-mcp",
           "segment_count": 2
+        },
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 2
         }
       ],
       "coverage_status": "mapped"
@@ -2473,6 +2577,10 @@
         {
           "concept_id": "skills-and-mcp",
           "segment_count": 2
+        },
+        {
+          "concept_id": "temporal-news",
+          "segment_count": 2
         }
       ],
       "coverage_status": "mapped"
@@ -2513,6 +2621,10 @@
         },
         {
           "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "temporal-news",
           "segment_count": 1
         }
       ],
@@ -2607,6 +2719,10 @@
           "segment_count": 4
         },
         {
+          "concept_id": "temporal-news",
+          "segment_count": 3
+        },
+        {
           "concept_id": "ai-foundations",
           "segment_count": 2
         },
@@ -2633,11 +2749,11 @@
       "format": "srt",
       "sha256": "f0083de5edba0d259659f5290e00147dbf5f37eb22147376b677b194cee7e7ea",
       "segment_count": 4,
-      "mapped_segment_count": 3,
+      "mapped_segment_count": 4,
       "concepts": [
         {
           "concept_id": "agents",
-          "segment_count": 2
+          "segment_count": 4
         },
         {
           "concept_id": "governance-risk",
@@ -2686,6 +2802,10 @@
         },
         {
           "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "temporal-news",
           "segment_count": 2
         },
         {
@@ -2768,6 +2888,10 @@
         },
         {
           "concept_id": "rag",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "temporal-news",
           "segment_count": 1
         }
       ],

@@ -24,6 +24,8 @@ Questa tassonomia serve a raggruppare i segmenti prima della sintesi editoriale.
 - `hallucinations`: hallucination, grounding e verifica delle risposte;
 - `infrastructure`: GPU, CPU, vLLM, llama.cpp e compute;
 - `cost-outcomes`: costi, tokenmaxxing, valuemaxxing e risultati operativi.
+- `data-systems`: modelli di database, SQL e sistemi di conoscenza strutturata;
+- `temporal-news`: release, partnership, incidenti e aggiornamenti dipendenti dalla data.
 
 ## Regole di revisione
 

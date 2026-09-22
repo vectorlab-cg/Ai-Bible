@@ -15,7 +15,7 @@ CONCEPTS: dict[str, tuple[str, ...]] = {
     "embeddings-vector-search": ("embedding", "vector database", "vector search"),
     "context-engineering": ("context engineering", "context window", "context management"),
     "fine-tuning": ("fine-tuning", "fine tuning", "lora", "fine-tuned"),
-    "agents": ("ai agent", "ai agents", "agentic", "agentic engineering"),
+    "agents": ("ai agent", "ai agents", "agentic", "agentic engineering", "super agents"),
     "skills-and-mcp": ("agent skill", "skills", "model context protocol", "mcp"),
     "memory-and-tools": ("agentic harness", "tool use", "memory", "progressive disclosure"),
     "rules-and-model-choice": ("business rules", "rules engine", "when not to use ai", "machine learning"),
@@ -29,6 +29,8 @@ CONCEPTS: dict[str, tuple[str, ...]] = {
     "hallucinations": ("hallucination", "hallucinations", "grounded", "grounding"),
     "infrastructure": ("gpu", "cpu", "vllm", "llama.cpp", "compute"),
     "cost-outcomes": ("tokenmaxxing", "valuemaxxing", "cost", "outcomes"),
+    "data-systems": ("large database models", "sql data", "database model", "digital librarian"),
+    "temporal-news": ("anthropic", "openai", "hugging face", "ibm's", "nvidia", "stripe", "reddit", "thinking machines", "pacing", "glm-5.2", "muse", "astra", "deepseek"),
 }
 
 WORD_PATTERN = re.compile(r"\s+")

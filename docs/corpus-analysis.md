@@ -89,9 +89,9 @@ Ogni concetto o capitolo dovrebbe avere almeno:
 
 Il parser deve conservare temporaneamente `start_time` e `end_time`, cosi ogni affermazione puo essere ricondotta alla lezione di origine durante la revisione.
 
-La prima segmentazione automatica ha prodotto 383 blocchi di lavorazione, con un massimo di 750 parole per blocco. La classificazione preliminare ha trovato 1.156 collegamenti tra segmenti e concetti su 367 segmenti; 16 segmenti non hanno ancora un candidato. I blocchi completi e la mappa dei candidati sono stati scritti nella cartella esterna `vectorlab-working`, non nel repository. Il repository conserva soltanto gli strumenti e i metadati necessari a ripetere il processo.
+La prima segmentazione automatica ha prodotto 383 blocchi di lavorazione, con un massimo di 750 parole per blocco. La classificazione aggiornata ha trovato 1.363 collegamenti tra segmenti e concetti su tutti i 383 segmenti; un saluto finale e marcato come esclusione editoriale. I blocchi completi e la mappa dei candidati sono stati scritti nella cartella esterna `vectorlab-working`, non nel repository. Il repository conserva soltanto gli strumenti e i metadati necessari a ripetere il processo.
 
-La matrice di copertura e disponibile in `docs/source-coverage.json`. Tutte le 65 fonti hanno almeno un segmento associato, ma questo non dimostra che tutto il contenuto sia gia confluito nei capitoli. La distinzione tra copertura del corpus e copertura editoriale e descritta in [coverage-review.md](coverage-review.md).
+La matrice di copertura e disponibile in `docs/source-coverage.json`. Tutte le 65 fonti hanno almeno un segmento associato e tutti i 383 segmenti hanno un candidato concettuale, ma questo non dimostra che tutto il contenuto sia gia confluito nei capitoli. La distinzione tra copertura del corpus e copertura editoriale e descritta in [coverage-review.md](coverage-review.md).
 
 ## Regola di eliminazione
 

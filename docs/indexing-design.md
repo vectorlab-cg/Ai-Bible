@@ -53,6 +53,8 @@ La ricerca semantica non sostituisce quella lessicale: `ISO 42001`, `MCP`, `RAG`
 }
 ```
 
+L'indice locale deriva i riferimenti `source_id` dai titoli elencati nelle sezioni "Fonti di partenza" dei capitoli. Il riferimento e di livello fonte, non ancora di livello timestamp: i blocchi senza un matching univoco restano marcati per revisione.
+
 ## Citazioni e provenienza
 
 La Bibbia non conservera le trascrizioni originali nella distribuzione finale, ma ogni blocco approvato manterra una provenienza compatta:
@@ -81,10 +83,11 @@ La prima implementazione locale e disponibile con:
 
 ```powershell
 python tools\build_bible_index.py docs\bible docs\bible-index.json
+python tools\build_bible_index.py docs\bible docs\bible-index.json --inventory docs\corpus-inventory.json
 python tools\search_bible.py docs\bible-index.json "RAG grounding"
 ```
 
-L'indice lessicale iniziale contiene 55 blocchi derivati dai tre capitoli attuali. E un indice di lavoro: prima di aggiungere embeddings bisogna approvare i blocchi, completare la provenienza e creare domande di valutazione rappresentative.
+L'indice lessicale contiene 123 blocchi derivati dai sette capitoli attuali. 112 blocchi hanno 670 riferimenti validi all'inventario delle fonti; 11 blocchi del capitolo temporale richiedono ancora un matching editoriale piu preciso. E un indice di lavoro: prima di aggiungere embeddings bisogna approvare i blocchi, completare la provenienza e creare domande di valutazione rappresentative.
 
 ## Criterio di successo
 

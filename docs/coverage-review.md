@@ -22,6 +22,8 @@ La Bibbia sara completa solo quando ogni segmento utile avra uno di questi esiti
 - escluso con una motivazione editoriale;
 - marcato per revisione manuale.
 
+La provenienza dei blocchi editoriali e ora presente nell'indice locale a livello di fonte: 112 blocchi hanno 670 riferimenti validi. Questo non equivale ancora a citazioni puntuali con timestamp.
+
 ## Prossimo controllo
 
 Per completare la copertura occorre aggiungere al blocco editoriale un riferimento ai `segment_id` di origine. In questo modo si potra calcolare:

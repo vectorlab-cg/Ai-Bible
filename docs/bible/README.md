@@ -16,6 +16,9 @@ Questa e la prima bozza della conoscenza derivata dalle trascrizioni IBM.
 2. [Architettura e scelta del metodo](02-architettura.md)
 3. [Rischio, sicurezza e governance](03-rischio-sicurezza-governance.md)
 4. [Engineering operativo](04-engineering-operativo.md)
+5. [Dati, RAG e conoscenza](05-dati-rag-e-conoscenza.md)
+6. [Agenti, skill e strumenti](06-agenti-skill-e-strumenti.md)
+7. [Contenuti temporali e aggiornamenti](07-contenuti-temporali.md)
 
 ## Ricerca
 

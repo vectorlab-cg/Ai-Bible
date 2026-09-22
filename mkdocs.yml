@@ -36,6 +36,9 @@ nav:
       - Architettura: bible/02-architettura.md
       - Rischio, sicurezza e governance: bible/03-rischio-sicurezza-governance.md
       - Engineering operativo: bible/04-engineering-operativo.md
+      - Dati, RAG e conoscenza: bible/05-dati-rag-e-conoscenza.md
+      - Agenti, skill e strumenti: bible/06-agenti-skill-e-strumenti.md
+      - Contenuti temporali e aggiornamenti: bible/07-contenuti-temporali.md
   - Progetto:
       - Ricerca e indicizzazione: indexing-design.md
       - Tassonomia dei concetti: concept-taxonomy.md

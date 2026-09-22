@@ -35,6 +35,7 @@ nav:
       - Fondamenti: bible/01-fondamenti.md
       - Architettura: bible/02-architettura.md
       - Rischio, sicurezza e governance: bible/03-rischio-sicurezza-governance.md
+      - Engineering operativo: bible/04-engineering-operativo.md
   - Progetto:
       - Ricerca e indicizzazione: indexing-design.md
       - Tassonomia dei concetti: concept-taxonomy.md

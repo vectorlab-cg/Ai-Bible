@@ -15,6 +15,7 @@ Questa e la prima bozza della conoscenza derivata dalle trascrizioni IBM.
 1. [Fondamenti](01-fondamenti.md)
 2. [Architettura e scelta del metodo](02-architettura.md)
 3. [Rischio, sicurezza e governance](03-rischio-sicurezza-governance.md)
+4. [Engineering operativo](04-engineering-operativo.md)
 
 ## Ricerca
 

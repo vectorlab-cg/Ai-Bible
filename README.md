@@ -2,9 +2,13 @@
 
 Repository principale del progetto VectorLab.
 
+## Documentazione
+
+Consulta la [VectorLab AI Bible](https://vectorlab-cg.github.io/Ai-Bible/).
+
 ## Stato
 
-Iniziale: repository appena creato. Architettura, stack e primi moduli saranno definiti nei prossimi passi.
+In sviluppo: la struttura documentale e la prima interfaccia MkDocs sono state impostate. I contenuti sono ancora in revisione.
 
 ## Obiettivi
 

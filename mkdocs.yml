@@ -1,0 +1,42 @@
+site_name: VectorLab AI Bible
+site_description: Knowledge base for practical AI engineering, architecture, security and governance.
+site_url: https://vectorlab-cg.github.io/Ai-Bible/
+repo_url: https://github.com/vectorlab-cg/Ai-Bible
+
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+  palette:
+    scheme: slate
+    primary: black
+    accent: cyan
+  font: false
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Bibbia AI:
+      - Fondamenti: bible/01-fondamenti.md
+      - Architettura: bible/02-architettura.md
+      - Rischio, sicurezza e governance: bible/03-rischio-sicurezza-governance.md
+  - Progetto:
+      - Ricerca e indicizzazione: indexing-design.md
+      - Tassonomia dei concetti: concept-taxonomy.md
+      - Analisi del corpus: corpus-analysis.md
+      - Direzione visiva: ui-design.md

@@ -24,6 +24,8 @@ La Bibbia sara completa solo quando ogni segmento utile avra uno di questi esiti
 
 La provenienza dei blocchi editoriali e ora presente nell'indice locale a livello di fonte: 112 blocchi hanno 670 riferimenti validi. Questo non equivale ancora a citazioni puntuali con timestamp.
 
+Un primo mapping automatico ha trovato 144 intervalli timestamp candidati per 52 blocchi. Lo stato resta `candidate`: il matching lessicale tra sintesi italiana e trascrizioni inglesi non e sufficiente per approvare una citazione senza revisione.
+
 ## Prossimo controllo
 
 Per completare la copertura occorre aggiungere al blocco editoriale un riferimento ai `segment_id` di origine. In questo modo si potra calcolare:

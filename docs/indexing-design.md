@@ -87,7 +87,7 @@ python tools\build_bible_index.py docs\bible docs\bible-index.json --inventory d
 python tools\search_bible.py docs\bible-index.json "RAG grounding"
 ```
 
-L'indice lessicale contiene 123 blocchi derivati dai sette capitoli attuali. 112 blocchi hanno 670 riferimenti validi all'inventario delle fonti; 11 blocchi del capitolo temporale richiedono ancora un matching editoriale piu preciso. E un indice di lavoro: prima di aggiungere embeddings bisogna approvare i blocchi, completare la provenienza e creare domande di valutazione rappresentative.
+L'indice lessicale contiene 123 blocchi derivati dai sette capitoli attuali. 112 blocchi hanno 670 riferimenti validi all'inventario delle fonti. Un mapping automatico ha aggiunto 144 timestamp candidati a 52 blocchi, ancora da verificare manualmente. E un indice di lavoro: prima di aggiungere embeddings bisogna approvare i blocchi, completare la provenienza e creare domande di valutazione rappresentative.
 
 ## Criterio di successo
 

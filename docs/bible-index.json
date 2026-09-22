@@ -48,7 +48,8 @@
         "su",
         "un",
         "va"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-0f63974d4906",
@@ -135,7 +136,8 @@
         "strumenti",
         "tra",
         "una"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-c4b3cd048d25",
@@ -194,7 +196,8 @@
         "ricevere",
         "testo",
         "un"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-c0919dc7fc25",
@@ -228,7 +231,7 @@
           "title": "AI & Data Science Periodic Tables How They Work Together"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 26,
       "text": "Il training modifica i pesi del modello usando grandi quantita di dati. L'inference e l'uso del modello per produrre un risultato a partire da un input.",
@@ -256,6 +259,32 @@
         "training",
         "un",
         "usando"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "4c8e57b1394b7d39-0001",
+          "source_id": "4c8e57b1394b7d39",
+          "start_time": "00:00:00,360",
+          "end_time": "00:03:27,080",
+          "score": 0.1429,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0001",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:00:00,200",
+          "end_time": "00:03:17,380",
+          "score": 0.1429,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "a8d573135af69dd9-0002",
+          "source_id": "a8d573135af69dd9",
+          "start_time": "00:04:16,040",
+          "end_time": "00:08:12,529",
+          "score": 0.1429,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -290,7 +319,7 @@
           "title": "AI & Data Science Periodic Tables How They Work Together"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 41,
       "text": "Il fine-tuning adatta un modello a un compito o stile piu specifico, ma ha costi di aggiornamento e valutazione. Quando la conoscenza deve cambiare spesso o deve restare separata dai pesi, il retrieval e il context engineering sono alternative piu adatte.",
@@ -329,6 +358,32 @@
         "stile",
         "un",
         "valutazione"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "a8d573135af69dd9-0002",
+          "source_id": "a8d573135af69dd9",
+          "start_time": "00:04:16,040",
+          "end_time": "00:08:12,529",
+          "score": 0.1818,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "a8d573135af69dd9-0003",
+          "source_id": "a8d573135af69dd9",
+          "start_time": "00:08:12,550",
+          "end_time": "00:10:41,429",
+          "score": 0.1364,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "4c8e57b1394b7d39-0002",
+          "source_id": "4c8e57b1394b7d39",
+          "start_time": "00:03:27,080",
+          "end_time": "00:06:44,360",
+          "score": 0.0909,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -373,7 +428,8 @@
         "la",
         "non",
         "scelta"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-38c1232960dc",
@@ -407,7 +463,7 @@
           "title": "AI & Data Science Periodic Tables How They Work Together"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 42,
       "text": "- usare RAG quando servono fonti aggiornabili e citabili; - usare skill quando serve una procedura ripetibile; - usare fine-tuning quando il comportamento o il formato devono essere stabilizzati su un compito; - usare regole quando la decisione e esplicita e deterministica.",
@@ -442,6 +498,32 @@
         "un",
         "una",
         "usare"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "a8d573135af69dd9-0002",
+          "source_id": "a8d573135af69dd9",
+          "start_time": "00:04:16,040",
+          "end_time": "00:08:12,529",
+          "score": 0.15,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "a8d573135af69dd9-0003",
+          "source_id": "a8d573135af69dd9",
+          "start_time": "00:08:12,550",
+          "end_time": "00:10:41,429",
+          "score": 0.1,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "4c8e57b1394b7d39-0001",
+          "source_id": "4c8e57b1394b7d39",
+          "start_time": "00:00:00,360",
+          "end_time": "00:03:27,080",
+          "score": 0.05,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -507,7 +589,8 @@
         "situazione",
         "un",
         "vale"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-c911c3066dee",
@@ -557,7 +640,8 @@
         "per",
         "questo",
         "una"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-078ecb9bbd22",
@@ -615,7 +699,8 @@
         "relazioni",
         "una",
         "verificabile"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-befcfc5d637e",
@@ -672,7 +757,8 @@
         "sistema",
         "una",
         "usare"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-e6cc430b53b6",
@@ -706,7 +792,7 @@
           "title": "AI & Data Science Periodic Tables How They Work Together"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 31,
       "text": "Retrieval Augmented Generation recupera informazioni da fonti esterne e le inserisce nel contesto del modello prima della generazione. Riduce la dipendenza dalla memoria interna del modello, ma non elimina gli errori.",
@@ -740,6 +826,32 @@
         "recupera",
         "retrieval",
         "riduce"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "4c8e57b1394b7d39-0001",
+          "source_id": "4c8e57b1394b7d39",
+          "start_time": "00:00:00,360",
+          "end_time": "00:03:27,080",
+          "score": 0.1579,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "4c8e57b1394b7d39-0003",
+          "source_id": "4c8e57b1394b7d39",
+          "start_time": "00:06:44,360",
+          "end_time": "00:08:39,719",
+          "score": 0.1579,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0003",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:06:51,940",
+          "end_time": "00:10:11,440",
+          "score": 0.1579,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -774,7 +886,7 @@
           "title": "AI & Data Science Periodic Tables How They Work Together"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 4,
       "text": "Un RAG affidabile richiede:",
@@ -783,6 +895,32 @@
         "rag",
         "richiede",
         "un"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "4c8e57b1394b7d39-0001",
+          "source_id": "4c8e57b1394b7d39",
+          "start_time": "00:00:00,360",
+          "end_time": "00:03:27,080",
+          "score": 0.3333,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "61fcb967c8e104bb-0001",
+          "source_id": "61fcb967c8e104bb",
+          "start_time": "00:00:00,220",
+          "end_time": "00:04:37,610",
+          "score": 0.3333,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0002",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:03:17,460",
+          "end_time": "00:06:51,739",
+          "score": 0.3333,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -850,7 +988,8 @@
         "su",
         "valutazione",
         "verificabili"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-31d9866efb5a",
@@ -884,7 +1023,7 @@
           "title": "AI & Data Science Periodic Tables How They Work Together"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 29,
       "text": "Nei documenti complessi, il significato puo dipendere da intestazioni, date, tabelle, definizioni e relazioni tra pagine. Spezzare il testo solo per numero di caratteri puo distruggere proprio quel contesto.",
@@ -916,6 +1055,24 @@
         "tabelle",
         "testo",
         "tra"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "61fcb967c8e104bb-0002",
+          "source_id": "61fcb967c8e104bb",
+          "start_time": "00:04:38,290",
+          "end_time": "00:08:45,580",
+          "score": 0.0455,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0003",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:06:51,940",
+          "end_time": "00:10:11,440",
+          "score": 0.0455,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -975,7 +1132,8 @@
         "una",
         "verificato",
         "verita"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-e94627e31754",
@@ -1009,7 +1167,7 @@
           "title": "AI & Data Science Periodic Tables How They Work Together"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 45,
       "text": "Gli strumenti, il retrieval e i controlli possono ridurre il rischio, ma un agente introduce anche piu passaggi e quindi piu punti di possibile errore. Un errore che resta testo puo diventare un errore operativo quando l'agente aggiorna dati, crea ticket o chiama un servizio.",
@@ -1051,6 +1209,32 @@
         "testo",
         "ticket",
         "un"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "61fcb967c8e104bb-0001",
+          "source_id": "61fcb967c8e104bb",
+          "start_time": "00:00:00,220",
+          "end_time": "00:04:37,610",
+          "score": 0.1111,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "4c8e57b1394b7d39-0001",
+          "source_id": "4c8e57b1394b7d39",
+          "start_time": "00:00:00,360",
+          "end_time": "00:03:27,080",
+          "score": 0.037,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "4c8e57b1394b7d39-0003",
+          "source_id": "4c8e57b1394b7d39",
+          "start_time": "00:06:44,360",
+          "end_time": "00:08:39,719",
+          "score": 0.037,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -1108,7 +1292,8 @@
         "una",
         "vera",
         "verificare"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-5204e7bffe4d",
@@ -1175,7 +1360,8 @@
         "strumenti",
         "un",
         "verifica"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-acb27a311872",
@@ -1224,7 +1410,8 @@
         "puo",
         "rappresentato",
         "un"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-417dd4b1db51",
@@ -1262,7 +1449,7 @@
           "title": "What Is Chunkless RAG How Docling & AI Agents Navigate Documents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 9,
       "text": "`modello + contesto + strumenti + memoria + ciclo plan/act/observe + controlli`",
@@ -1276,6 +1463,24 @@
         "observe",
         "plan",
         "strumenti"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "47822474e9446b71-0002",
+          "source_id": "47822474e9446b71",
+          "start_time": "00:03:36,410",
+          "end_time": "00:07:25,181",
+          "score": 0.2222,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0001",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:00:00,000",
+          "end_time": "00:03:54,640",
+          "score": 0.1111,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -1314,7 +1519,7 @@
           "title": "What Is Chunkless RAG How Docling & AI Agents Navigate Documents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 30,
       "text": "La stessa rete neurale puo comportarsi in modo molto diverso se viene collegata a file, terminale, database, web o servizi esterni. Per questo l'architettura deve essere valutata come sistema completo.",
@@ -1349,6 +1554,32 @@
         "valutata",
         "viene",
         "web"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "47822474e9446b71-0001",
+          "source_id": "47822474e9446b71",
+          "start_time": "00:00:00,810",
+          "end_time": "00:03:36,150",
+          "score": 0.1429,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0002",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:03:54,640",
+          "end_time": "00:07:39,160",
+          "score": 0.0952,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "c518d0bae681ecb1-0002",
+          "source_id": "c518d0bae681ecb1",
+          "start_time": null,
+          "end_time": null,
+          "score": 0.0952,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -1387,7 +1618,7 @@
           "title": "What Is Chunkless RAG How Docling & AI Agents Navigate Documents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 64,
       "text": "| Metodo | Usarlo quando | Limite principale | |---|---|---| | Persona | servono giudizio, responsabilita o gestione dell'ambiguita | costo, lentezza e scarsa scalabilita | | Regola o codice | la logica e esplicita, stabile e deterministica | non generalizza casi imprevisti | | Machine learning | esistono pattern in dati strutturati e servono previsioni | drift e spiegabilita variabile | | Generative AI o agente | input non strutturati, interpretazione e sintesi | non determinismo, costo e rischio operativo |",
@@ -1441,6 +1672,32 @@
         "strutturati",
         "usarlo",
         "variabile"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "0276db4371cf2b55-0001",
+          "source_id": "0276db4371cf2b55",
+          "start_time": "00:00:00,640",
+          "end_time": "00:04:44,560",
+          "score": 0.119,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "0276db4371cf2b55-0002",
+          "source_id": "0276db4371cf2b55",
+          "start_time": "00:04:45,920",
+          "end_time": "00:09:02,560",
+          "score": 0.0952,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "0276db4371cf2b55-0003",
+          "source_id": "0276db4371cf2b55",
+          "start_time": "00:09:03,160",
+          "end_time": "00:10:23,280",
+          "score": 0.0714,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -1501,7 +1758,8 @@
         "quel",
         "rischio",
         "sono"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-d9f17d3e0321",
@@ -1539,7 +1797,7 @@
           "title": "What Is Chunkless RAG How Docling & AI Agents Navigate Documents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 23,
       "text": "Le business rules producono un risultato prevedibile da condizioni esplicite. Gli agenti interpretano contesto e possono gestire casi che non erano stati previsti.",
@@ -1567,6 +1825,32 @@
         "rules",
         "stati",
         "un"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "c3b6f316b094ef8a-0001",
+          "source_id": "c3b6f316b094ef8a",
+          "start_time": "00:00:00,030",
+          "end_time": "00:04:18,379",
+          "score": 0.125,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "c3b6f316b094ef8a-0002",
+          "source_id": "c3b6f316b094ef8a",
+          "start_time": "00:04:18,680",
+          "end_time": "00:08:13,149",
+          "score": 0.125,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "c3b6f316b094ef8a-0003",
+          "source_id": "c3b6f316b094ef8a",
+          "start_time": "00:08:13,410",
+          "end_time": "00:10:12,320",
+          "score": 0.125,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -1614,7 +1898,8 @@
         "spesso",
         "un'architettura",
         "usa"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-0428c7ea488b",
@@ -1652,7 +1937,7 @@
           "title": "What Is Chunkless RAG How Docling & AI Agents Navigate Documents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 30,
       "text": "1. regole per i casi semplici, sensibili o ad alta certezza; 2. agente per interpretare input ambigui o non strutturati; 3. regole finali e approvazione umana prima di un'azione irreversibile.",
@@ -1684,6 +1969,32 @@
         "strutturati",
         "umana",
         "un'azione"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "0276db4371cf2b55-0001",
+          "source_id": "0276db4371cf2b55",
+          "start_time": "00:00:00,640",
+          "end_time": "00:04:44,560",
+          "score": 0.0625,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "c3b6f316b094ef8a-0001",
+          "source_id": "c3b6f316b094ef8a",
+          "start_time": "00:00:00,030",
+          "end_time": "00:04:18,379",
+          "score": 0.0625,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "c3b6f316b094ef8a-0002",
+          "source_id": "c3b6f316b094ef8a",
+          "start_time": "00:04:18,680",
+          "end_time": "00:08:13,149",
+          "score": 0.0625,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -1722,7 +2033,7 @@
           "title": "What Is Chunkless RAG How Docling & AI Agents Navigate Documents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 17,
       "text": "Questo evita di usare un modello probabilistico per una decisione che richiede logica booleana e audit deterministico.",
@@ -1744,6 +2055,16 @@
         "un",
         "una",
         "usare"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "7a8bd7a15eaac878-0004",
+          "source_id": "7a8bd7a15eaac878",
+          "start_time": "00:10:41,820",
+          "end_time": "00:13:09,350",
+          "score": 0.0909,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -1782,7 +2103,7 @@
           "title": "What Is Chunkless RAG How Docling & AI Agents Navigate Documents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 31,
       "text": "Una skill contiene conoscenza procedurale: passi, condizioni, esempi, errori frequenti e criteri di escalation. Il suo valore e il modo specifico di svolgere un compito, non la ripetizione di istruzioni generiche.",
@@ -1814,6 +2135,32 @@
         "un",
         "una",
         "valore"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "0276db4371cf2b55-0003",
+          "source_id": "0276db4371cf2b55",
+          "start_time": "00:09:03,160",
+          "end_time": "00:10:23,280",
+          "score": 0.0526,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0001",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:00:00,000",
+          "end_time": "00:03:54,640",
+          "score": 0.0526,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0002",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:03:54,640",
+          "end_time": "00:07:39,160",
+          "score": 0.0526,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -1852,7 +2199,7 @@
           "title": "What Is Chunkless RAG How Docling & AI Agents Navigate Documents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 26,
       "text": "Model Context Protocol collega un agente a sistemi esterni tramite server che espongono strumenti. La skill puo dire cosa controllare; MCP fornisce il collegamento per farlo.",
@@ -1883,6 +2230,32 @@
         "strumenti",
         "tramite",
         "un"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "2909d56893b0c384-0002",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:03:54,640",
+          "end_time": "00:07:39,160",
+          "score": 0.3,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "c518d0bae681ecb1-0002",
+          "source_id": "c518d0bae681ecb1",
+          "start_time": null,
+          "end_time": null,
+          "score": 0.25,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0001",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:00:00,000",
+          "end_time": "00:03:54,640",
+          "score": 0.2,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -1921,7 +2294,7 @@
           "title": "What Is Chunkless RAG How Docling & AI Agents Navigate Documents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 18,
       "text": "RAG recupera contenuto informativo al momento della richiesta. E adatto a documenti, policy, manuali e fonti che cambiano.",
@@ -1943,6 +2316,32 @@
         "rag",
         "recupera",
         "richiesta"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "3d58c1ec2f1ae703-0001",
+          "source_id": "3d58c1ec2f1ae703",
+          "start_time": "00:00:00,030",
+          "end_time": "00:03:01,280",
+          "score": 0.1667,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "3d58c1ec2f1ae703-0002",
+          "source_id": "3d58c1ec2f1ae703",
+          "start_time": "00:03:02,299",
+          "end_time": "00:06:33,370",
+          "score": 0.1667,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0001",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:00:00,000",
+          "end_time": "00:03:54,640",
+          "score": 0.0833,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -2009,7 +2408,8 @@
         "tra",
         "un",
         "utili"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-efc170da1d6f",
@@ -2047,7 +2447,7 @@
           "title": "What Is Chunkless RAG How Docling & AI Agents Navigate Documents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 38,
       "text": "Un catalogo di skill non dovrebbe caricare tutte le istruzioni nel contesto iniziale. E preferibile caricare prima nome e descrizione, poi il corpo della skill quando il compito la richiede, e infine riferimenti o script solo quando necessari.",
@@ -2084,6 +2484,32 @@
         "solo",
         "tutte",
         "un"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "7a8bd7a15eaac878-0003",
+          "source_id": "7a8bd7a15eaac878",
+          "start_time": "00:07:00,230",
+          "end_time": "00:10:41,029",
+          "score": 0.0952,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7a8bd7a15eaac878-0004",
+          "source_id": "7a8bd7a15eaac878",
+          "start_time": "00:10:41,820",
+          "end_time": "00:13:09,350",
+          "score": 0.0952,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "0276db4371cf2b55-0003",
+          "source_id": "0276db4371cf2b55",
+          "start_time": "00:09:03,160",
+          "end_time": "00:10:23,280",
+          "score": 0.0476,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -2153,7 +2579,8 @@
         "trovare",
         "vale",
         "verifica"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-1f4ddca88171",
@@ -2192,7 +2619,8 @@
         "e",
         "la",
         "relazione"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-c2b3ae4cee8b",
@@ -2233,7 +2661,8 @@
         "requisiti",
         "rischio",
         "verifica"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-a3e4fd03a571",
@@ -2263,7 +2692,7 @@
           "title": "What Is Digital Sovereignty AI, Data & Control Explained"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 31,
       "text": "Un principio come trasparenza o explainability e una dichiarazione di intenti. Per diventare utile deve essere tradotto in requisiti funzionali e non funzionali che un team possa implementare, testare e contrattualizzare.",
@@ -2295,6 +2724,32 @@
         "un",
         "una",
         "utile"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "ac7997fdb64cca18-0002",
+          "source_id": "ac7997fdb64cca18",
+          "start_time": "00:03:55,520",
+          "end_time": "00:07:58,649",
+          "score": 0.1333,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "1b0bc9f61879e0be-0006",
+          "source_id": "1b0bc9f61879e0be",
+          "start_time": "00:14:31,541",
+          "end_time": "00:17:31,791",
+          "score": 0.0667,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "1b0bc9f61879e0be-0008",
+          "source_id": "1b0bc9f61879e0be",
+          "start_time": "00:20:18,791",
+          "end_time": "00:23:51,750",
+          "score": 0.0667,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -2325,7 +2780,7 @@
           "title": "What Is Digital Sovereignty AI, Data & Control Explained"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 33,
       "text": "Il livello di controllo deve essere proporzionato alla conseguenza dell'errore. Una raccomandazione di intrattenimento puo richiedere una spiegazione semplice; una decisione sanitaria, finanziaria o di accesso richiede tracciabilita, provenienza, test, riesame e responsabilita.",
@@ -2359,6 +2814,32 @@
         "test",
         "tracciabilita",
         "una"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "19c7accd3f2b6b5d-0003",
+          "source_id": "19c7accd3f2b6b5d",
+          "start_time": "00:07:55,490",
+          "end_time": "00:11:16,929",
+          "score": 0.0455,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "1b0bc9f61879e0be-0002",
+          "source_id": "1b0bc9f61879e0be",
+          "start_time": "00:02:59,166",
+          "end_time": "00:05:57,458",
+          "score": 0.0455,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "ac7997fdb64cca18-0002",
+          "source_id": "ac7997fdb64cca18",
+          "start_time": "00:03:55,520",
+          "end_time": "00:07:58,649",
+          "score": 0.0455,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -2389,7 +2870,7 @@
           "title": "What Is Digital Sovereignty AI, Data & Control Explained"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 29,
       "text": "Le istruzioni nel prompt possono orientare il modello, ma non sono un controllo sufficiente. Un modello probabilistico puo interpretare una regola in modo inatteso o privilegiare il raggiungimento dell'obiettivo.",
@@ -2420,6 +2901,32 @@
         "sufficiente",
         "un",
         "una"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "19c7accd3f2b6b5d-0001",
+          "source_id": "19c7accd3f2b6b5d",
+          "start_time": "00:00:00,370",
+          "end_time": "00:03:51,639",
+          "score": 0.0588,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "1b0bc9f61879e0be-0001",
+          "source_id": "1b0bc9f61879e0be",
+          "start_time": "00:00:00,041",
+          "end_time": "00:02:59,166",
+          "score": 0.0588,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "1b0bc9f61879e0be-0002",
+          "source_id": "1b0bc9f61879e0be",
+          "start_time": "00:02:59,166",
+          "end_time": "00:05:57,458",
+          "score": 0.0588,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -2464,7 +2971,8 @@
         "fuori",
         "i",
         "modello"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-a6750d4f9c18",
@@ -2494,7 +3002,7 @@
           "title": "What Is Digital Sovereignty AI, Data & Control Explained"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 47,
       "text": "- autorizzazioni esplicite e a privilegio minimo; - allowlist di strumenti e destinazioni; - sandbox e isolamento di rete; - conferma umana per azioni irreversibili; - logging completo delle chiamate e dei risultati; - limiti di costo, tempo, dati e numero di tentativi; - revoca immediata dell'accesso.",
@@ -2533,6 +3041,16 @@
         "tempo",
         "tentativi",
         "umana"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "1b0bc9f61879e0be-0002",
+          "source_id": "1b0bc9f61879e0be",
+          "start_time": "00:02:59,166",
+          "end_time": "00:05:57,458",
+          "score": 0.037,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -2579,7 +3097,8 @@
         "un",
         "un'identita",
         "va"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-538baa402e7a",
@@ -2609,7 +3128,7 @@
           "title": "What Is Digital Sovereignty AI, Data & Control Explained"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 34,
       "text": "Prompt injection, contenuti ostili e tool troppo permissivi possono spingere l'agente verso azioni non previste. La domanda non e solo se il modello sa rifiutare una richiesta, ma cosa puo fare se viene manipolato.",
@@ -2645,6 +3164,32 @@
         "una",
         "verso",
         "viene"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "1b0bc9f61879e0be-0002",
+          "source_id": "1b0bc9f61879e0be",
+          "start_time": "00:02:59,166",
+          "end_time": "00:05:57,458",
+          "score": 0.1304,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "1b0bc9f61879e0be-0001",
+          "source_id": "1b0bc9f61879e0be",
+          "start_time": "00:00:00,041",
+          "end_time": "00:02:59,166",
+          "score": 0.087,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "1b0bc9f61879e0be-0003",
+          "source_id": "1b0bc9f61879e0be",
+          "start_time": "00:05:57,458",
+          "end_time": "00:08:54,833",
+          "score": 0.087,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -2686,7 +3231,8 @@
         "difesa",
         "l'intera",
         "la"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-71a6fe338631",
@@ -2716,7 +3262,7 @@
           "title": "What Is Digital Sovereignty AI, Data & Control Explained"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 26,
       "text": "1. contenuto ricevuto; 2. modello e istruzioni; 3. strumenti disponibili; 4. permessi dell'identita; 5. rete e sistemi raggiungibili; 6. validazione dell'azione; 7. audit e risposta all'incidente.",
@@ -2745,6 +3291,24 @@
         "sistemi",
         "strumenti",
         "validazione"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "ac7997fdb64cca18-0002",
+          "source_id": "ac7997fdb64cca18",
+          "start_time": "00:03:55,520",
+          "end_time": "00:07:58,649",
+          "score": 0.0625,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "e053dd5cb907c589-0002",
+          "source_id": "e053dd5cb907c589",
+          "start_time": "00:03:56,035",
+          "end_time": "00:07:22,308",
+          "score": 0.0625,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -2789,7 +3353,8 @@
         "non",
         "sicurezza",
         "sostituisce"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-28435f31ff00",
@@ -2819,7 +3384,7 @@
           "title": "What Is Digital Sovereignty AI, Data & Control Explained"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 24,
       "text": "Un AI management system deve coprire contesto, responsabilita, valutazione del rischio, operazioni, monitoraggio, audit e miglioramento. Non e una checklist da compilare una volta.",
@@ -2846,6 +3411,32 @@
         "una",
         "valutazione",
         "volta"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "e053dd5cb907c589-0001",
+          "source_id": "e053dd5cb907c589",
+          "start_time": "00:00:00,100",
+          "end_time": "00:03:55,568",
+          "score": 0.2143,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "e053dd5cb907c589-0002",
+          "source_id": "e053dd5cb907c589",
+          "start_time": "00:03:56,035",
+          "end_time": "00:07:22,308",
+          "score": 0.2143,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "ac7997fdb64cca18-0002",
+          "source_id": "ac7997fdb64cca18",
+          "start_time": "00:03:55,520",
+          "end_time": "00:07:58,649",
+          "score": 0.1429,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -2886,7 +3477,8 @@
         "per",
         "sapere",
         "sistema"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-060c02707287",
@@ -2956,7 +3548,8 @@
         "usa",
         "valutato",
         "viene"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-5e1411974169",
@@ -3006,7 +3599,8 @@
         "sia",
         "un",
         "valutazione"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-88254f2e953c",
@@ -3068,7 +3662,8 @@
         "sotto",
         "sui",
         "utenti"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-40dae9e52287",
@@ -3128,7 +3723,8 @@
         "un",
         "verificato",
         "vincoli"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-ffa3a325ae35",
@@ -3162,7 +3758,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 16,
       "text": "Un sistema AI per lo sviluppo dovrebbe prima costruire comprensione e solo dopo modificare i file.",
@@ -3183,6 +3779,24 @@
         "solo",
         "sviluppo",
         "un"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "cfd1def528ec9ea0-0002",
+          "source_id": "cfd1def528ec9ea0",
+          "start_time": "00:04:27,000",
+          "end_time": "00:09:16,000",
+          "score": 0.125,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "e9d30a4f60c3c5d4-0001",
+          "source_id": "e9d30a4f60c3c5d4",
+          "start_time": "00:00:00,030",
+          "end_time": "00:03:36,909",
+          "score": 0.125,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -3217,7 +3831,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 7,
       "text": "Prima di proporre una patch deve identificare:",
@@ -3229,6 +3843,24 @@
         "prima",
         "proporre",
         "una"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "e9d30a4f60c3c5d4-0001",
+          "source_id": "e9d30a4f60c3c5d4",
+          "start_time": "00:00:00,030",
+          "end_time": "00:03:36,909",
+          "score": 0.3333,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "e9d30a4f60c3c5d4-0002",
+          "source_id": "e9d30a4f60c3c5d4",
+          "start_time": "00:03:37,770",
+          "end_time": "00:06:41,420",
+          "score": 0.3333,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -3263,7 +3895,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 43,
       "text": "- il problema e il risultato atteso; - i file e i test pertinenti; - le convenzioni architetturali del repository; - i servizi, tipi e utility gia esistenti; - i confini che non deve oltrepassare; - i controlli necessari per verificare la modifica.",
@@ -3299,6 +3931,32 @@
         "tipi",
         "utility",
         "verificare"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "e9d30a4f60c3c5d4-0001",
+          "source_id": "e9d30a4f60c3c5d4",
+          "start_time": "00:00:00,030",
+          "end_time": "00:03:36,909",
+          "score": 0.15,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19a9e65a03440b0c-0002",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:03:05,250",
+          "end_time": "00:06:23,576",
+          "score": 0.1,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "e9d30a4f60c3c5d4-0002",
+          "source_id": "e9d30a4f60c3c5d4",
+          "start_time": "00:03:37,770",
+          "end_time": "00:06:41,420",
+          "score": 0.1,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -3360,7 +4018,8 @@
         "sbagliate",
         "un",
         "verificabile"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-51a827324d01",
@@ -3417,7 +4076,8 @@
         "qualita",
         "resta",
         "testabile"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-a5271d44720f",
@@ -3451,7 +4111,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 13,
       "text": "Una modifica puo compilare e superare un test, ma essere comunque sbagliata se:",
@@ -3469,6 +4129,32 @@
         "test",
         "un",
         "una"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "19a9e65a03440b0c-0002",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:03:05,250",
+          "end_time": "00:06:23,576",
+          "score": 0.1429,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19a9e65a03440b0c-0005",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:13:06,710",
+          "end_time": "00:14:49,110",
+          "score": 0.1429,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19c7accd3f2b6b5d-0003",
+          "source_id": "19c7accd3f2b6b5d",
+          "start_time": "00:07:55,490",
+          "end_time": "00:11:16,929",
+          "score": 0.1429,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -3503,7 +4189,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 39,
       "text": "- duplica una utility esistente; - introduce una dipendenza non necessaria; - bypassa un service layer; - ignora permessi, logging o gestione degli errori; - contraddice l'architettura del repository; - risolve il caso felice ma peggiora il comportamento operativo.",
@@ -3540,6 +4226,32 @@
         "un",
         "una",
         "utility"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "e9d30a4f60c3c5d4-0001",
+          "source_id": "e9d30a4f60c3c5d4",
+          "start_time": "00:00:00,030",
+          "end_time": "00:03:36,909",
+          "score": 0.1667,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "e9d30a4f60c3c5d4-0002",
+          "source_id": "e9d30a4f60c3c5d4",
+          "start_time": "00:03:37,770",
+          "end_time": "00:06:41,420",
+          "score": 0.125,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19a9e65a03440b0c-0002",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:03:05,250",
+          "end_time": "00:06:23,576",
+          "score": 0.0833,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -3590,7 +4302,8 @@
         "questo",
         "sistema",
         "soltanto"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-2ff64f1eed66",
@@ -3643,7 +4356,8 @@
         "risultato",
         "sue",
         "verifica"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-9852afd5a1e6",
@@ -3684,7 +4398,8 @@
       "terms": [
         "almeno",
         "controllare"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-e25772f8839b",
@@ -3718,7 +4433,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 39,
       "text": "- autenticazione e autorizzazioni; - esposizione o esfiltrazione di dati; - gestione di input non validi; - comportamento in caso di errore; - segreti incorporati; - pacchetti, licenze e vulnerabilita delle dipendenze; - test statici, dinamici e di integrazione.",
@@ -3751,6 +4466,32 @@
         "test",
         "validi",
         "vulnerabilita"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "19a9e65a03440b0c-0002",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:03:05,250",
+          "end_time": "00:06:23,576",
+          "score": 0.0952,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19a9e65a03440b0c-0005",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:13:06,710",
+          "end_time": "00:14:49,110",
+          "score": 0.0952,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19a9e65a03440b0c-0003",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:06:23,576",
+          "end_time": "00:09:52,119",
+          "score": 0.0476,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -3785,7 +4526,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 15,
       "text": "La sicurezza lasciata alla fine diventa un collo di bottiglia proprio quando la generazione accelera.",
@@ -3804,6 +4545,16 @@
         "quando",
         "sicurezza",
         "un"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "e9d30a4f60c3c5d4-0001",
+          "source_id": "e9d30a4f60c3c5d4",
+          "start_time": "00:00:00,030",
+          "end_time": "00:03:36,909",
+          "score": 0.1,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -3864,7 +4615,8 @@
         "tasso",
         "un",
         "una"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-d95e81f3ee21",
@@ -3911,7 +4663,8 @@
         "rendere",
         "secondo",
         "visibili"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-55d471d4132f",
@@ -3945,7 +4698,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 37,
       "text": "- input e output rilevanti; - prompt e versione delle istruzioni; - modello e configurazione usati; - strumenti chiamati e relativi risultati; - passaggi tra agenti; - token, costi e latenza; - errori, retry e interventi umani.",
@@ -3976,6 +4729,32 @@
         "umani",
         "usati",
         "versione"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "19a9e65a03440b0c-0003",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:06:23,576",
+          "end_time": "00:09:52,119",
+          "score": 0.1739,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19a9e65a03440b0c-0004",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:09:52,880",
+          "end_time": "00:13:06,169",
+          "score": 0.1304,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "3ba0e31b1342050a-0001",
+          "source_id": "3ba0e31b1342050a",
+          "start_time": "00:00:00,790",
+          "end_time": "00:04:45,550",
+          "score": 0.087,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -4010,7 +4789,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 15,
       "text": "Il tracing serve a ricostruire il percorso completo, non a registrare indiscriminatamente ogni dato sensibile.",
@@ -4028,6 +4807,24 @@
         "sensibile",
         "serve",
         "tracing"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "19a9e65a03440b0c-0005",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:13:06,710",
+          "end_time": "00:14:49,110",
+          "score": 0.1111,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "cfd1def528ec9ea0-0003",
+          "source_id": "cfd1def528ec9ea0",
+          "start_time": "00:09:16,000",
+          "end_time": "00:13:44,200",
+          "score": 0.1111,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -4062,7 +4859,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 21,
       "text": "Un benchmark generale non dimostra che un'applicazione funzioni nel proprio ambiente. La valutazione deve combinare modello, harness, dati e traffico realistico.",
@@ -4088,6 +4885,32 @@
         "un",
         "un'applicazione",
         "valutazione"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "19a9e65a03440b0c-0001",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:00:00,130",
+          "end_time": "00:03:04,889",
+          "score": 0.0667,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19a9e65a03440b0c-0002",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:03:05,250",
+          "end_time": "00:06:23,576",
+          "score": 0.0667,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19a9e65a03440b0c-0003",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:06:23,576",
+          "end_time": "00:09:52,119",
+          "score": 0.0667,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -4129,7 +4952,8 @@
       "terms": [
         "almeno",
         "misurare"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-8c4ae5a3269e",
@@ -4163,7 +4987,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 48,
       "text": "- correttezza rispetto a una risposta attesa o a una rubrica; - groundedness e qualita delle citazioni; - robustezza su casi limite e input avversari; - latenza e throughput; - costo per richiesta e per risultato utile; - tasso di escalation e intervento umano; - regressioni tra versioni.",
@@ -4203,6 +5027,32 @@
         "una",
         "utile",
         "versioni"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "19a9e65a03440b0c-0003",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:06:23,576",
+          "end_time": "00:09:52,119",
+          "score": 0.0769,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19a9e65a03440b0c-0004",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:09:52,880",
+          "end_time": "00:13:06,169",
+          "score": 0.0769,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19a9e65a03440b0c-0005",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:13:06,710",
+          "end_time": "00:14:49,110",
+          "score": 0.0769,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -4266,7 +5116,8 @@
         "una",
         "va",
         "valutazioni"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-9a8c9f56e033",
@@ -4300,7 +5151,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 16,
       "text": "Numero di token, richieste o suggerimenti accettati sono metriche di attivit\u00e0. Non dimostrano da sole valore.",
@@ -4320,6 +5171,32 @@
         "suggerimenti",
         "token",
         "valore"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "19a9e65a03440b0c-0003",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:06:23,576",
+          "end_time": "00:09:52,119",
+          "score": 0.1,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19a9e65a03440b0c-0004",
+          "source_id": "19a9e65a03440b0c",
+          "start_time": "00:09:52,880",
+          "end_time": "00:13:06,169",
+          "score": 0.1,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "3ba0e31b1342050a-0001",
+          "source_id": "3ba0e31b1342050a",
+          "start_time": "00:00:00,790",
+          "end_time": "00:04:45,550",
+          "score": 0.1,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -4368,7 +5245,8 @@
         "possono",
         "processo",
         "significative"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-22e5ff6d68bd",
@@ -4402,7 +5280,7 @@
           "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 36,
       "text": "- tempo risparmiato senza aumento del rework; - deployment completati correttamente; - difetti o vulnerabilita risolti; - tempo di risposta migliorato; - casi risolti al primo tentativo; - costo per outcome; - qualita percepita dagli utenti.",
@@ -4435,6 +5313,32 @@
         "tentativo",
         "utenti",
         "vulnerabilita"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "3ba0e31b1342050a-0002",
+          "source_id": "3ba0e31b1342050a",
+          "start_time": "00:04:45,550",
+          "end_time": "00:08:13,449",
+          "score": 0.0909,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "19c7accd3f2b6b5d-0001",
+          "source_id": "19c7accd3f2b6b5d",
+          "start_time": "00:00:00,370",
+          "end_time": "00:03:51,639",
+          "score": 0.0455,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "3ba0e31b1342050a-0001",
+          "source_id": "3ba0e31b1342050a",
+          "start_time": "00:00:00,790",
+          "end_time": "00:04:45,550",
+          "score": 0.0455,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -4494,7 +5398,8 @@
         "risultati",
         "un",
         "usare"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-c7254c2f1931",
@@ -4557,7 +5462,8 @@
         "sistema",
         "solo",
         "un"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-ef263b682b44",
@@ -4600,7 +5506,8 @@
         "dell'indicizzazione",
         "occorre",
         "prima"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-d766f33ec330",
@@ -4634,7 +5541,7 @@
           "title": "What Is a Digital Librarian AI Agent Connecting SQL & Vector Database"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 32,
       "text": "- origine e proprietario del dato; - data e versione; - formato e struttura; - livello di affidabilita; - permessi di accesso; - frequenza di aggiornamento; - eventuali dati personali o riservati.",
@@ -4661,6 +5568,32 @@
         "riservati",
         "struttura",
         "versione"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "5b34de2e2c0709ba-0002",
+          "source_id": "5b34de2e2c0709ba",
+          "start_time": "00:03:36,460",
+          "end_time": "00:05:08,730",
+          "score": 0.0588,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0001",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:00:00,200",
+          "end_time": "00:03:17,380",
+          "score": 0.0588,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0002",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:03:17,460",
+          "end_time": "00:06:51,739",
+          "score": 0.0588,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -4695,7 +5628,7 @@
           "title": "What Is a Digital Librarian AI Agent Connecting SQL & Vector Database"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 29,
       "text": "Un documento non va trattato come una stringa da tagliare a intervalli fissi. Il significato puo dipendere da titolo, sezione, tabella, definizione, nota, data o relazione con altre parti.",
@@ -4728,6 +5661,32 @@
         "un",
         "una",
         "va"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "5b34de2e2c0709ba-0002",
+          "source_id": "5b34de2e2c0709ba",
+          "start_time": "00:03:36,460",
+          "end_time": "00:05:08,730",
+          "score": 0.0556,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0001",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:00:00,200",
+          "end_time": "00:03:17,380",
+          "score": 0.0556,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0002",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:03:17,460",
+          "end_time": "00:06:51,739",
+          "score": 0.0556,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -4772,7 +5731,8 @@
         "essere",
         "un",
         "utile"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-e49a1c0e909c",
@@ -4841,7 +5801,8 @@
         "superati",
         "una",
         "versione"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-f0948f9994a4",
@@ -4901,7 +5862,8 @@
         "struttura",
         "tra",
         "un"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-fc93ed41b8ed",
@@ -4935,7 +5897,7 @@
           "title": "What Is a Digital Librarian AI Agent Connecting SQL & Vector Database"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 31,
       "text": "Il retrieval augmented generation recupera fonti esterne e le inserisce nel contesto del modello. Questo riduce la probabilita di inventare informazioni, ma restano possibili errori di estrazione, ricerca, selezione e sintesi.",
@@ -4969,6 +5931,32 @@
         "riduce",
         "selezione",
         "sintesi"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "3d58c1ec2f1ae703-0001",
+          "source_id": "3d58c1ec2f1ae703",
+          "start_time": "00:00:00,030",
+          "end_time": "00:03:01,280",
+          "score": 0.1364,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0003",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:06:51,940",
+          "end_time": "00:10:11,440",
+          "score": 0.1364,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "a8d573135af69dd9-0002",
+          "source_id": "a8d573135af69dd9",
+          "start_time": "00:04:16,040",
+          "end_time": "00:08:12,529",
+          "score": 0.1364,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -5003,7 +5991,7 @@
           "title": "What Is a Digital Librarian AI Agent Connecting SQL & Vector Database"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 6,
       "text": "Una pipeline deve quindi valutare separatamente:",
@@ -5014,6 +6002,32 @@
         "separatamente",
         "una",
         "valutare"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "7eefdbc0126e0f8e-0002",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:03:17,460",
+          "end_time": "00:06:51,739",
+          "score": 0.25,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0004",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:10:12,080",
+          "end_time": "00:13:20,270",
+          "score": 0.25,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "bf5bc260d9428c45-0002",
+          "source_id": "bf5bc260d9428c45",
+          "start_time": "00:03:50,500",
+          "end_time": "00:07:22,440",
+          "score": 0.25,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -5048,7 +6062,7 @@
           "title": "What Is a Digital Librarian AI Agent Connecting SQL & Vector Database"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 37,
       "text": "1. recall: la fonte corretta viene recuperata? 2. precision: i risultati sono pertinenti? 3. grounding: la risposta deriva davvero dalle fonti? 4. citation: il lettore puo verificare l'affermazione? 5. access control: il sistema evita fonti non autorizzate?",
@@ -5087,6 +6101,32 @@
         "sono",
         "verificare",
         "viene"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "3d58c1ec2f1ae703-0002",
+          "source_id": "3d58c1ec2f1ae703",
+          "start_time": "00:03:02,299",
+          "end_time": "00:06:33,370",
+          "score": 0.0417,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0003",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:06:51,940",
+          "end_time": "00:10:11,440",
+          "score": 0.0417,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "bf5bc260d9428c45-0001",
+          "source_id": "bf5bc260d9428c45",
+          "start_time": "00:00:00,500",
+          "end_time": "00:03:50,340",
+          "score": 0.0417,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -5148,7 +6188,8 @@
         "semantica",
         "standard",
         "usa"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-a7439416c97d",
@@ -5191,7 +6232,8 @@
         "ricerca",
         "robusta",
         "una"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-c49aa6f7f607",
@@ -5225,7 +6267,7 @@
           "title": "What Is a Digital Librarian AI Agent Connecting SQL & Vector Database"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 21,
       "text": "- indice testuale; - embeddings; - filtri sui metadati; - reranking; - espansione verso concetti collegati; - citazioni e contesto circostante.",
@@ -5246,6 +6288,32 @@
         "sui",
         "testuale",
         "verso"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "7eefdbc0126e0f8e-0002",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:03:17,460",
+          "end_time": "00:06:51,739",
+          "score": 0.0714,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0003",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:06:51,940",
+          "end_time": "00:10:11,440",
+          "score": 0.0714,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0004",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:10:12,080",
+          "end_time": "00:13:20,270",
+          "score": 0.0714,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -5299,7 +6367,8 @@
         "risposta",
         "singolo",
         "solo"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-d4365ffe9b37",
@@ -5333,7 +6402,7 @@
           "title": "What Is a Digital Librarian AI Agent Connecting SQL & Vector Database"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 14,
       "text": "Il RAG fornisce conoscenza dichiarativa. Non sostituisce automaticamente procedure, autorizzazioni, regole o memoria operativa.",
@@ -5352,6 +6421,32 @@
         "rag",
         "regole",
         "sostituisce"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "3d58c1ec2f1ae703-0001",
+          "source_id": "3d58c1ec2f1ae703",
+          "start_time": "00:00:00,030",
+          "end_time": "00:03:01,280",
+          "score": 0.0909,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "3d58c1ec2f1ae703-0002",
+          "source_id": "3d58c1ec2f1ae703",
+          "start_time": "00:03:02,299",
+          "end_time": "00:06:33,370",
+          "score": 0.0909,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0002",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:03:17,460",
+          "end_time": "00:06:51,739",
+          "score": 0.0909,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -5386,7 +6481,7 @@
           "title": "What Is a Digital Librarian AI Agent Connecting SQL & Vector Database"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 35,
       "text": "Usare una skill per una procedura, regole deterministiche per un vincolo, MCP per collegarsi a un sistema e RAG per recuperare documentazione. La qualita nasce dalla composizione corretta, non dal mettere tutto nello stesso prompt.",
@@ -5421,6 +6516,32 @@
         "una",
         "usare",
         "vincolo"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "a8d573135af69dd9-0002",
+          "source_id": "a8d573135af69dd9",
+          "start_time": "00:04:16,040",
+          "end_time": "00:08:12,529",
+          "score": 0.1304,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0002",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:03:17,460",
+          "end_time": "00:06:51,739",
+          "score": 0.087,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7eefdbc0126e0f8e-0003",
+          "source_id": "7eefdbc0126e0f8e",
+          "start_time": "00:06:51,940",
+          "end_time": "00:10:11,440",
+          "score": 0.087,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -5480,7 +6601,8 @@
         "strumenti",
         "un",
         "usa"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-649ba45a6018",
@@ -5521,7 +6643,8 @@
       "terms": [
         "minimo",
         "schema"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-b2b3cc5cfa42",
@@ -5568,7 +6691,8 @@
         "piano",
         "prossimo",
         "verifica"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-6c6a66db5a80",
@@ -5625,7 +6749,8 @@
         "o",
         "possono",
         "punti"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-af12e48c90f6",
@@ -5659,7 +6784,7 @@
           "title": "When Should AI Systems Use Super Agents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 23,
       "text": "Una skill insegna come eseguire un compito specifico. Il valore non sta in istruzioni generiche come \"gestisci gli errori\", ma in conoscenza concreta:",
@@ -5685,6 +6810,32 @@
         "un",
         "una",
         "valore"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "2909d56893b0c384-0001",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:00:00,000",
+          "end_time": "00:03:54,640",
+          "score": 0.0769,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0002",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:03:54,640",
+          "end_time": "00:07:39,160",
+          "score": 0.0769,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0003",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:07:39,160",
+          "end_time": "00:09:00,080",
+          "score": 0.0769,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -5719,7 +6870,7 @@
           "title": "When Should AI Systems Use Super Agents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 32,
       "text": "- ordine dei passaggi; - condizioni per scegliere un percorso; - eccezioni e gotcha; - criteri di successo; - criteri di stop; - momento in cui chiedere aiuto umano; - esempi verificati.",
@@ -5748,6 +6899,32 @@
         "umano",
         "un",
         "verificati"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "0b8be862c59e71a6-0001",
+          "source_id": "0b8be862c59e71a6",
+          "start_time": "00:00:00,000",
+          "end_time": "00:04:05,720",
+          "score": 0.0588,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0001",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:00:00,000",
+          "end_time": "00:03:54,640",
+          "score": 0.0588,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7a8bd7a15eaac878-0002",
+          "source_id": "7a8bd7a15eaac878",
+          "start_time": "00:03:41,010",
+          "end_time": "00:06:59,889",
+          "score": 0.0588,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -5782,7 +6959,7 @@
           "title": "When Should AI Systems Use Super Agents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 16,
       "text": "Le correzioni manuali ripetute sono segnali di conoscenza procedurale mancante e dovrebbero diventare parte della skill.",
@@ -5803,6 +6980,32 @@
         "segnali",
         "skill",
         "sono"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "2909d56893b0c384-0001",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:00:00,000",
+          "end_time": "00:03:54,640",
+          "score": 0.0909,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0002",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:03:54,640",
+          "end_time": "00:07:39,160",
+          "score": 0.0909,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0003",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:07:39,160",
+          "end_time": "00:09:00,080",
+          "score": 0.0909,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -5837,7 +7040,7 @@
           "title": "When Should AI Systems Use Super Agents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 35,
       "text": "Un agente con molte skill non deve caricare tutte le istruzioni nel contesto iniziale. Prima usa nome e descrizione per decidere quali skill possono servire, poi carica le istruzioni e infine eventuali riferimenti o script.",
@@ -5873,6 +7076,32 @@
         "tutte",
         "un",
         "usa"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "7a8bd7a15eaac878-0003",
+          "source_id": "7a8bd7a15eaac878",
+          "start_time": "00:07:00,230",
+          "end_time": "00:10:41,029",
+          "score": 0.0909,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "7a8bd7a15eaac878-0004",
+          "source_id": "7a8bd7a15eaac878",
+          "start_time": "00:10:41,820",
+          "end_time": "00:13:09,350",
+          "score": 0.0909,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0001",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:00:00,000",
+          "end_time": "00:03:54,640",
+          "score": 0.0455,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -5907,7 +7136,7 @@
           "title": "When Should AI Systems Use Super Agents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 31,
       "text": "Questo riduce rumore e costo, ma rende la descrizione una parte critica del comportamento: se e vaga, la skill puo non attivarsi; se e troppo ampia, puo attivarsi nel momento sbagliato.",
@@ -5937,6 +7166,32 @@
         "troppo",
         "una",
         "vaga"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "2909d56893b0c384-0001",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:00:00,000",
+          "end_time": "00:03:54,640",
+          "score": 0.0556,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0002",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:03:54,640",
+          "end_time": "00:07:39,160",
+          "score": 0.0556,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0003",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:07:39,160",
+          "end_time": "00:09:00,080",
+          "score": 0.0556,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -5971,7 +7226,7 @@
           "title": "When Should AI Systems Use Super Agents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 26,
       "text": "Gli strumenti danno all'agente la possibilita di agire su file, terminale, database, web e servizi esterni. MCP puo standardizzare il collegamento tra l'harness e questi sistemi.",
@@ -6001,6 +7256,32 @@
         "terminale",
         "tra",
         "web"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "47822474e9446b71-0001",
+          "source_id": "47822474e9446b71",
+          "start_time": "00:00:00,810",
+          "end_time": "00:03:36,150",
+          "score": 0.2105,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0002",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:03:54,640",
+          "end_time": "00:07:39,160",
+          "score": 0.1579,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "c518d0bae681ecb1-0002",
+          "source_id": "c518d0bae681ecb1",
+          "start_time": null,
+          "end_time": null,
+          "score": 0.1579,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -6044,7 +7325,8 @@
         "deve",
         "ogni",
         "strumento"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-eb052719fee7",
@@ -6078,7 +7360,7 @@
           "title": "When Should AI Systems Use Super Agents"
         }
       ],
-      "provenance_status": "title-level",
+      "provenance_status": "candidate-timestamps",
       "status": "draft",
       "word_count": 30,
       "text": "- scopo limitato; - schema di input e output; - permessi minimi; - timeout e limiti di costo; - gestione degli errori; - logging; - proprietario e ciclo di revisione.",
@@ -6103,6 +7385,32 @@
         "schema",
         "scopo",
         "timeout"
+      ],
+      "source_spans": [
+        {
+          "segment_id": "c518d0bae681ecb1-0001",
+          "source_id": "c518d0bae681ecb1",
+          "start_time": null,
+          "end_time": null,
+          "score": 0.1176,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "0b8be862c59e71a6-0005",
+          "source_id": "0b8be862c59e71a6",
+          "start_time": "00:16:27,880",
+          "end_time": "00:18:51,080",
+          "score": 0.0588,
+          "status": "candidate"
+        },
+        {
+          "segment_id": "2909d56893b0c384-0002",
+          "source_id": "2909d56893b0c384",
+          "start_time": "00:03:54,640",
+          "end_time": "00:07:39,160",
+          "score": 0.0588,
+          "status": "candidate"
+        }
       ]
     },
     {
@@ -6158,7 +7466,8 @@
         "scelta",
         "strumenti",
         "un"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-b8cbca415ceb",
@@ -6205,7 +7514,8 @@
         "la",
         "memoria",
         "un"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-c1162b384c66",
@@ -6259,7 +7569,8 @@
         "richiesta",
         "sessione",
         "temporaneo"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-47b5bb0c00fa",
@@ -6320,7 +7631,8 @@
         "rumore",
         "senza",
         "tutto"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-4f8aee92b8b9",
@@ -6377,7 +7689,8 @@
         "per",
         "umano",
         "un"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-34b5dc633412",
@@ -6422,7 +7735,8 @@
         "in",
         "l'agente",
         "quando"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-e2b99492fd9c",
@@ -6477,7 +7791,8 @@
         "ripristinare",
         "un",
         "un'azione"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-37ad5f47da47",
@@ -6527,7 +7842,8 @@
         "non",
         "rischio",
         "soglia"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-a143a4285d04",
@@ -6562,7 +7878,8 @@
         "stessa",
         "tecnici",
         "utili"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-778d60633b6a",
@@ -6580,7 +7897,8 @@
         "mantenere",
         "notizia",
         "una"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-81ed0110ae3e",
@@ -6612,7 +7930,8 @@
         "soggetti",
         "stato",
         "verifica"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-21ed5905debb",
@@ -6643,7 +7962,8 @@
         "trasformarlo",
         "un",
         "una"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-809d8b0857a1",
@@ -6687,7 +8007,8 @@
         "riutilizzato",
         "sono",
         "successo"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-f89d0736ae5b",
@@ -6717,7 +8038,8 @@
         "revisione",
         "solo",
         "stabili"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-4cc0ad67b5cf",
@@ -6751,7 +8073,8 @@
         "test",
         "un",
         "versione"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-e6c7a34e6bd2",
@@ -6790,7 +8113,8 @@
         "strumenti",
         "un",
         "vanno"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-0d4173201007",
@@ -6810,7 +8134,8 @@
         "gli",
         "questo",
         "seguire"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-1d13ef1e79d4",
@@ -6857,7 +8182,8 @@
         "valido",
         "valutazione",
         "verificare"
-      ]
+      ],
+      "source_spans": []
     },
     {
       "id": "kb-e9ca5fb7a6ff",
@@ -6884,7 +8210,15 @@
         "superata",
         "una",
         "verificato"
-      ]
+      ],
+      "source_spans": []
     }
-  ]
+  ],
+  "provenance": {
+    "method": "source-scoped lexical overlap",
+    "status": "candidate",
+    "note": "Candidate spans require manual review before publication as precise citations.",
+    "mapped_block_count": 52,
+    "candidate_span_count": 144
+  }
 }

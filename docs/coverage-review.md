@@ -1,0 +1,31 @@
+# Revisione della copertura
+
+## Stato attuale
+
+La matrice `docs/source-coverage.json` collega le fonti ai segmenti di lavorazione e ai candidati concettuali.
+
+- fonti presenti: `65`;
+- fonti con almeno un segmento: `65`;
+- segmenti totali: `383`;
+- segmenti con almeno un candidato concettuale: `367`;
+- segmenti ancora da classificare: `16`.
+
+## Interpretazione
+
+La presenza di una fonte nella matrice non significa che tutto il suo contenuto sia entrato nella Bibbia. Significa solo che la fonte e stata segmentata e che almeno un suo segmento e stato collegato al processo di estrazione.
+
+La Bibbia sara completa solo quando ogni segmento utile avra uno di questi esiti:
+
+- incorporato in un blocco editoriale approvato;
+- registrato come duplicato;
+- registrato come contenuto temporale;
+- escluso con una motivazione editoriale;
+- marcato per revisione manuale.
+
+## Prossimo controllo
+
+Per completare la copertura occorre aggiungere al blocco editoriale un riferimento ai `segment_id` di origine. In questo modo si potra calcolare:
+
+`segmenti classificati -> segmenti sintetizzati -> segmenti verificati -> segmenti approvati`
+
+Finche questo collegamento non esiste, i capitoli sono una sintesi iniziale e non una trasposizione completa del corpus.

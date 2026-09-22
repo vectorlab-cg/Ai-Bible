@@ -1,0 +1,2847 @@
+{
+  "schema_version": 1,
+  "source_count": 65,
+  "mapped_source_count": 65,
+  "unmapped_source_count": 0,
+  "segment_count": 383,
+  "mapped_segment_count": 367,
+  "records": [
+    {
+      "source_id": "4c8e57b1394b7d39",
+      "filename": "[English (auto-generated)] AI Simplified 6 Concepts You Need to Know About Modern AI [DownSub.com].srt",
+      "title": "AI Simplified 6 Concepts You Need to Know About Modern AI",
+      "category": "foundations",
+      "format": "srt",
+      "sha256": "4c8e57b1394b7d39832bd0dc4b35ce3616017bda9ada570bc96e0a6e579da291",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "generative-ai",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "c8a52b9ee33cf3d0",
+      "filename": "[English (auto-generated)] An Ancient Guide to Cybersecurity 8 Lessons from The Art of War [DownSub.com].srt",
+      "title": "An Ancient Guide to Cybersecurity 8 Lessons from The Art of War",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "c8a52b9ee33cf3d03debbf407cf75ca157b9954fd8b5903b3b8db9f91320c75a",
+      "segment_count": 4,
+      "mapped_segment_count": 4,
+      "concepts": [
+        {
+          "concept_id": "security",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "bc7bddeef6ebaaba",
+      "filename": "[English (auto-generated)] Anthropic reveals hardware specs and Claude updates, OpenAI talks security, and Runway's new model [DownSub.com].srt",
+      "title": "Anthropic reveals hardware specs and Claude updates, OpenAI talks security, and Runway's new model",
+      "category": "news",
+      "format": "srt",
+      "sha256": "bc7bddeef6ebaaba32f6187afe19e742dc4de2866242956ab3de2b3ecc008087",
+      "segment_count": 10,
+      "mapped_segment_count": 10,
+      "concepts": [
+        {
+          "concept_id": "security",
+          "segment_count": 10
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "cfd1def528ec9ea0",
+      "filename": "[English (auto-generated)] Code Quality in the Age of AI Why Great Code Isn't Enough [DownSub.com].srt",
+      "title": "Code Quality in the Age of AI Why Great Code Isn't Enough",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "cfd1def528ec9ea0305ac01b1af4ac30bbafb1704fd63e36a8c3986cec2c9303",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "01b03db2d7f0e5cc",
+      "filename": "[English (auto-generated)] How AI Is Changing Code Reviews & Software Development [DownSub.com].srt",
+      "title": "How AI Is Changing Code Reviews & Software Development",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "01b03db2d7f0e5cc340e257c1bc831b313edef5012d4122ab0efbb25c4536459",
+      "segment_count": 4,
+      "mapped_segment_count": 4,
+      "concepts": [
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "2909d56893b0c384",
+      "filename": "[English (auto-generated)] Skills vs MCP vs RAG vs Memory What AI Agents Need to Know [DownSub.com].srt",
+      "title": "Skills vs MCP vs RAG vs Memory What AI Agents Need to Know",
+      "category": "architecture",
+      "format": "srt",
+      "sha256": "2909d56893b0c384ecfdf50726355067bacbff58a577a37b617727df591f8548",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "embeddings-vector-search",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "54bf1b79dea6624c",
+      "filename": "[English (auto-generated)] What Is Digital Sovereignty AI, Data & Control Explained [DownSub.com].srt",
+      "title": "What Is Digital Sovereignty AI, Data & Control Explained",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "54bf1b79dea6624c9eea75e90eef94b27343bb610ceaf99bb197e9ad6ecd77da",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "privacy-sovereignty",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "bf7734be2f4df5bc",
+      "filename": "[English (auto-generated)] Why OpenAI is calling for a \u2018cyber defense surge.\u2019 Plus Find Evil! winners and TeamPCP losers [DownSub.com].srt",
+      "title": "Why OpenAI is calling for a \u2018cyber defense surge.\u2019 Plus Find Evil! winners and TeamPCP losers",
+      "category": "news",
+      "format": "srt",
+      "sha256": "bf7734be2f4df5bc606659de9d2f9e039854e026d1627fda2ad967f0f4eb6024",
+      "segment_count": 10,
+      "mapped_segment_count": 10,
+      "concepts": [
+        {
+          "concept_id": "security",
+          "segment_count": 9
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "9b1b410a074b3922",
+      "filename": "[English (auto-generated)] Why won\u2019t AI agents just follow the rules [DownSub.com].srt",
+      "title": "Why won\u2019t AI agents just follow the rules",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "9b1b410a074b39226d5177ec90b12d320cb0022506f20a1e039668796003a27c",
+      "segment_count": 13,
+      "mapped_segment_count": 13,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 13
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 12
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "8b0ab0bd7597e5a4",
+      "filename": "[English] 2026 Cost of a Data Breach Report AI Is Changing Cybersecurity [DownSub.com].srt",
+      "title": "2026 Cost of a Data Breach Report AI Is Changing Cybersecurity",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "8b0ab0bd7597e5a40fce6c52c1c39a2ac55f3bb2ef2e3d31af56d48d67985ef6",
+      "segment_count": 6,
+      "mapped_segment_count": 6,
+      "concepts": [
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "b93da9a76f35d73a",
+      "filename": "[English] 5 AI Myths & The Truth Behind Them ML, Context, Agents & More [DownSub.com].srt",
+      "title": "5 AI Myths & The Truth Behind Them ML, Context, Agents & More",
+      "category": "foundations",
+      "format": "srt",
+      "sha256": "b93da9a76f35d73a0be857de5ba02e5e8a589ff6ca8a4c2653d2574bd71605fd",
+      "segment_count": 4,
+      "mapped_segment_count": 4,
+      "concepts": [
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "7a8bd7a15eaac878",
+      "filename": "[English] 5 Best Practices for Building AI Agent Skills [DownSub.com].srt",
+      "title": "5 Best Practices for Building AI Agent Skills",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "7a8bd7a15eaac87847b2b4693aee6ef231d572dca170e0806aeb6ac58e82605c",
+      "segment_count": 4,
+      "mapped_segment_count": 4,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "018a192476e4dda1",
+      "filename": "[English] 6 Ways to Enhance Developer Productivity with AI [DownSub.com].srt",
+      "title": "6 Ways to Enhance Developer Productivity with AI",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "018a192476e4dda18676fa20339c6d78e39e1cf88b491fbebf6af158d6922a62",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "a7ba40f2de96fddb",
+      "filename": "[English] Agentic Engineering vs Software Engineering Beyond Vibe Coding [DownSub.com].srt",
+      "title": "Agentic Engineering vs Software Engineering Beyond Vibe Coding",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "a7ba40f2de96fddb73251fd413494f0144e3684c348dbf068174fd55dd0c5d5d",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "7eefdbc0126e0f8e",
+      "filename": "[English] AI & Data Science Periodic Tables How They Work Together [DownSub.com].srt",
+      "title": "AI & Data Science Periodic Tables How They Work Together",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "7eefdbc0126e0f8e50cdd13866fabd6377074d6975fad0bf1ab3dbe185ad17ac",
+      "segment_count": 4,
+      "mapped_segment_count": 4,
+      "concepts": [
+        {
+          "concept_id": "embeddings-vector-search",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "fine-tuning",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "generative-ai",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "c3b6f316b094ef8a",
+      "filename": "[English] AI Agents vs Business Rules Which Should Make Decisions [DownSub.com].srt",
+      "title": "AI Agents vs Business Rules Which Should Make Decisions",
+      "category": "architecture",
+      "format": "srt",
+      "sha256": "c3b6f316b094ef8acc4d594187a5d37b357bb54226b7eebac9708585c335ed32",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "47822474e9446b71",
+      "filename": "[English] AI Model vs Agentic Harness What Actually Drives AI [DownSub.com].srt",
+      "title": "AI Model vs Agentic Harness What Actually Drives AI",
+      "category": "architecture",
+      "format": "srt",
+      "sha256": "47822474e9446b716fa010ee06591dc382908f9991eeeab7ce3748169e037af1",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "f4ef648bbc9f73c2",
+      "filename": "[English] AI Security Costs Rise Cost of a Data Breach Report & Claude Opus 5 [DownSub.com].srt",
+      "title": "AI Security Costs Rise Cost of a Data Breach Report & Claude Opus 5",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "f4ef648bbc9f73c20425c14bf625b6c2621bb56091d85bef360f424eb3dd621d",
+      "segment_count": 12,
+      "mapped_segment_count": 12,
+      "concepts": [
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 12
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 12
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "privacy-sovereignty",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "4473f72e14e74796",
+      "filename": "[English] Anthropic\u2019s sandbox breach, EU\u2019s AI transparency push and DeepSeek\u2019s cost-cutting model [DownSub.com].srt",
+      "title": "Anthropic\u2019s sandbox breach, EU\u2019s AI transparency push and DeepSeek\u2019s cost-cutting model",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "4473f72e14e7479621124ff4d5426391ff4ea2c6d6154fa7c7d385c55377f940",
+      "segment_count": 13,
+      "mapped_segment_count": 13,
+      "concepts": [
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 13
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "generative-ai",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "fine-tuning",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "privacy-sovereignty",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "bf5bc260d9428c45",
+      "filename": "[English] Essential Skills for Becoming an AI Engineer RAG, AI Agents, & More [DownSub.com].srt",
+      "title": "Essential Skills for Becoming an AI Engineer RAG, AI Agents, & More",
+      "category": "architecture",
+      "format": "srt",
+      "sha256": "bf5bc260d9428c45d53d43e5b9669de7d4f032b654ab13952e560853ab3f09e6",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "embeddings-vector-search",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "d6ee62c9d0a624b0",
+      "filename": "[English] GLM-5.2 The real security risk Plus Vibe hunting, the end of CVSS and updates on Lightwell [DownSub.com].srt",
+      "title": "GLM-5.2 The real security risk Plus Vibe hunting, the end of CVSS and updates on Lightwell",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "d6ee62c9d0a624b037d0e1f86d75d9aef92e001162988127867a6eca3f1a41ab",
+      "segment_count": 14,
+      "mapped_segment_count": 14,
+      "concepts": [
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 14
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 14
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "3ba0e31b1342050a",
+      "filename": "[English] Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes [DownSub.com].srt",
+      "title": "Goodbye Tokenmaxxing From AI Usage to Agentic AI Outcomes",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "3ba0e31b1342050afcdd772203261365f4d5679d4a7454a21595113bc16a99dd",
+      "segment_count": 2,
+      "mapped_segment_count": 2,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "5441f9e31a7e3c6d",
+      "filename": "[English] GPT-Red Can AI red teams stop prompt injections [DownSub.com].srt",
+      "title": "GPT-Red Can AI red teams stop prompt injections",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "5441f9e31a7e3c6d1f2a5680e583362a5195d9ff6eb0dcdd93311a8c2ec27fca",
+      "segment_count": 11,
+      "mapped_segment_count": 11,
+      "concepts": [
+        {
+          "concept_id": "security",
+          "segment_count": 11
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "e9d30a4f60c3c5d4",
+      "filename": "[English] How AI Coding Agents Understand Your Codebase & Developer Tools [DownSub.com].srt",
+      "title": "How AI Coding Agents Understand Your Codebase & Developer Tools",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "e9d30a4f60c3c5d47f2782be45389f25076bbf71922456a3594312285348fbd6",
+      "segment_count": 2,
+      "mapped_segment_count": 2,
+      "concepts": [
+        {
+          "concept_id": "architecture",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "19c7accd3f2b6b5d",
+      "filename": "[English] How Developers Secure AI-Generated Code 5 Security Best Practices [DownSub.com].srt",
+      "title": "How Developers Secure AI-Generated Code 5 Security Best Practices",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "19c7accd3f2b6b5d237ec4cf0bf411fae05dc6d663ae878e39f04c53aac69a83",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "b352a844b3015ffc",
+      "filename": "[English] How GPUs Accelerate Data & Analytics with AI [DownSub.com].srt",
+      "title": "How GPUs Accelerate Data & Analytics with AI",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "b352a844b3015ffc0771d590bf54cfcfdb5ae72e0b24bcb9a60e56c7078bd3e5",
+      "segment_count": 2,
+      "mapped_segment_count": 2,
+      "concepts": [
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "e053dd5cb907c589",
+      "filename": "[English] How to Manage Your AI Before It Makes the Wrong Decision [DownSub.com].srt",
+      "title": "How to Manage Your AI Before It Makes the Wrong Decision",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "e053dd5cb907c58943fe30064285dcc2248fe8b956c97c2398e8f807b938471e",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "9eced878c2ed15f1",
+      "filename": "[English] Hugging Face breach OpenAI\u2019s model breaks containment [DownSub.com].srt",
+      "title": "Hugging Face breach OpenAI\u2019s model breaks containment",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "9eced878c2ed15f1bed1704858143bea6f3b1bf52ceb42257fd2712b05cd00c9",
+      "segment_count": 15,
+      "mapped_segment_count": 14,
+      "concepts": [
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 7
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "generative-ai",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "fea266c794db84ea",
+      "filename": "[English] IBM\u2019s cloud collab, Meta\u2019s Muse Glimmer & OpenAI\u2019s upcoming Astra model [DownSub.com].srt",
+      "title": "IBM\u2019s cloud collab, Meta\u2019s Muse Glimmer & OpenAI\u2019s upcoming Astra model",
+      "category": "news",
+      "format": "srt",
+      "sha256": "fea266c794db84ea255a3e752508b146e11c41b9c99dd6bae1721ccdaf3ad818",
+      "segment_count": 13,
+      "mapped_segment_count": 12,
+      "concepts": [
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "privacy-sovereignty",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "fine-tuning",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "e526c956c036556f",
+      "filename": "[English] IBM\u2019s mainframe chip collab, NVIDIA\u2019s Poolside deal & Ox Alpha\u2019s reveal [DownSub.com].srt",
+      "title": "IBM\u2019s mainframe chip collab, NVIDIA\u2019s Poolside deal & Ox Alpha\u2019s reveal",
+      "category": "news",
+      "format": "srt",
+      "sha256": "e526c956c036556fdb2c6ab925358c1a4940792378456708c064b9493a69b7fc",
+      "segment_count": 11,
+      "mapped_segment_count": 9,
+      "concepts": [
+        {
+          "concept_id": "architecture",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "a8d573135af69dd9",
+      "filename": "[English] Is Fine-Tuning Still Needed LLMs, RAG, & LoRA [DownSub.com].srt",
+      "title": "Is Fine-Tuning Still Needed LLMs, RAG, & LoRA",
+      "category": "foundations",
+      "format": "srt",
+      "sha256": "a8d573135af69dd9239292eda3689df26501a326a15e3f63ad8b3ad0bd6a8ce3",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "fine-tuning",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "0276db4371cf2b55",
+      "filename": "[English] Knowing When Not to Use AI AI Agents vs Rules vs ML [DownSub.com].srt",
+      "title": "Knowing When Not to Use AI AI Agents vs Rules vs ML",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "0276db4371cf2b55cd6b66786d1e329552ea1d4f5cb644a01fdcc42d05f281b5",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "generative-ai",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "f1054aa4633726af",
+      "filename": "[English] Llama.cpp vs vLLM Which Local LLM Engine Actually Scales [DownSub.com].srt",
+      "title": "Llama.cpp vs vLLM Which Local LLM Engine Actually Scales",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "f1054aa4633726afba4f939b09cb6e7976c8860ec6966d660b8252ac5e35cb9e",
+      "segment_count": 4,
+      "mapped_segment_count": 4,
+      "concepts": [
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "embeddings-vector-search",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "privacy-sovereignty",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "19a9e65a03440b0c",
+      "filename": "[English] LLM & AI Agent Benchmarks vs Reality Why AI Applications Break [DownSub.com].srt",
+      "title": "LLM & AI Agent Benchmarks vs Reality Why AI Applications Break",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "19a9e65a03440b0c8eb35d1c69204d5d32800edd1fad0a6fe7655b0f6c0dd515",
+      "segment_count": 5,
+      "mapped_segment_count": 5,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "embeddings-vector-search",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "4dc785f8b2220ec6",
+      "filename": "[English] Oh look. Anthropic\u2019s AI models also broke containment. [DownSub.com].srt",
+      "title": "Oh look. Anthropic\u2019s AI models also broke containment.",
+      "category": "news",
+      "format": "srt",
+      "sha256": "4dc785f8b2220ec6df6e2fb28bca7f31b0ddf13727bffd0bbd8d58eedaf1a280",
+      "segment_count": 12,
+      "mapped_segment_count": 9,
+      "concepts": [
+        {
+          "concept_id": "security",
+          "segment_count": 9
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "generative-ai",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "1b6f0e84f7e89cce",
+      "filename": "[English] OpenAI talks GPT-6 Astra and Millenium Prize, researchers create WeWorm exploit & IBM\u2019s US Open app [DownSub.com].srt",
+      "title": "OpenAI talks GPT-6 Astra and Millenium Prize, researchers create WeWorm exploit & IBM\u2019s US Open app",
+      "category": "news",
+      "format": "srt",
+      "sha256": "1b6f0e84f7e89cceec54be91a1974e337f53eb1d7009d90188204f20d6b089bd",
+      "segment_count": 10,
+      "mapped_segment_count": 8,
+      "concepts": [
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "fine-tuning",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "5058ce06ae914b29",
+      "filename": "[English] Pacing the AI frontier, IBM Granite 4.2 & Meta\u2019s Muse assistant [DownSub.com].srt",
+      "title": "Pacing the AI frontier, IBM Granite 4.2 & Meta\u2019s Muse assistant",
+      "category": "news",
+      "format": "srt",
+      "sha256": "5058ce06ae914b294718418e32086322225c46caef46798c5c2a4ab7f50adfe3",
+      "segment_count": 12,
+      "mapped_segment_count": 9,
+      "concepts": [
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "embeddings-vector-search",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "fine-tuning",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "privacy-sovereignty",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "ca4970ebd360644b",
+      "filename": "[English] Reddit cracks down on AI slop & the future of AI compute [DownSub.com].srt",
+      "title": "Reddit cracks down on AI slop & the future of AI compute",
+      "category": "news",
+      "format": "srt",
+      "sha256": "ca4970ebd360644b631ca8ba4d8e0b2c42068e762edfdb523c913f9e977ad0f4",
+      "segment_count": 12,
+      "mapped_segment_count": 12,
+      "concepts": [
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 12
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "generative-ai",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "e2c334f1ca5c223e",
+      "filename": "[English] Stripe buys OpenRouter, Ramp\u2019s AI Index & IBM\u2019s OpenAI deal [DownSub.com].srt",
+      "title": "Stripe buys OpenRouter, Ramp\u2019s AI Index & IBM\u2019s OpenAI deal",
+      "category": "news",
+      "format": "srt",
+      "sha256": "e2c334f1ca5c223e8778d54d0e00b8bec97e6e3ef71eba7f98a0fae8091bb2b0",
+      "segment_count": 11,
+      "mapped_segment_count": 11,
+      "concepts": [
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 2
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "d43804b715456587",
+      "filename": "[English] The Cost of a Data Breach 2026, and what we can learn from the Hugging Face hack [DownSub.com].srt",
+      "title": "The Cost of a Data Breach 2026, and what we can learn from the Hugging Face hack",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "d43804b7154565870c3a98180faf2173bc0ec1d93e305a44fca5c68af63c4e82",
+      "segment_count": 12,
+      "mapped_segment_count": 12,
+      "concepts": [
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 12
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 11
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "1b0bc9f61879e0be",
+      "filename": "[English] The OWASP LLM Top 10 has a few surprises for you [DownSub.com].srt",
+      "title": "The OWASP LLM Top 10 has a few surprises for you",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "1b0bc9f61879e0be1e8b29ee47ae9d223cdafede6bb534ed1793e4d913b37086",
+      "segment_count": 10,
+      "mapped_segment_count": 10,
+      "concepts": [
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 10
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 9
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "generative-ai",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "113feeb7b736f22d",
+      "filename": "[English] The vulnpocalypse might not be so bad after all [DownSub.com].srt",
+      "title": "The vulnpocalypse might not be so bad after all",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "113feeb7b736f22da11ddc3e3471f347e1711c3298b5e61f6274cf3654d27be7",
+      "segment_count": 10,
+      "mapped_segment_count": 10,
+      "concepts": [
+        {
+          "concept_id": "security",
+          "segment_count": 9
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "355b114a67ec6e9b",
+      "filename": "[English] Thinking Machines Lab drops Inkling & Meta\u2019s Muse Spark 1.1 [DownSub.com].srt",
+      "title": "Thinking Machines Lab drops Inkling & Meta\u2019s Muse Spark 1.1",
+      "category": "news",
+      "format": "srt",
+      "sha256": "355b114a67ec6e9ba4e069265a033fb6b676b957feab6a12f1dd323ba89cbd6f",
+      "segment_count": 12,
+      "mapped_segment_count": 11,
+      "concepts": [
+        {
+          "concept_id": "evaluation",
+          "segment_count": 8
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "fine-tuning",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "61fcb967c8e104bb",
+      "filename": "[English] Understanding AI Agent Hallucination in AI Systems [DownSub.com].srt",
+      "title": "Understanding AI Agent Hallucination in AI Systems",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "61fcb967c8e104bb28adb103c3188b930677d0e8cb1017c260d6cbe8f7a1568e",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "c518d0bae681ecb1",
+      "filename": "[English] What AI Agent Skills Are and How They Work [DownSub.com].txt",
+      "title": "What AI Agent Skills Are and How They Work",
+      "category": "engineering",
+      "format": "txt",
+      "sha256": "c518d0bae681ecb11cfbdfd4b43babba765040c9ceb432210f0ee587ddb7a7a3",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "fine-tuning",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "a3a9eed0709d3011",
+      "filename": "[English] What Are Large Database Models AI for SQL Data [DownSub.com].srt",
+      "title": "What Are Large Database Models AI for SQL Data",
+      "category": "foundations",
+      "format": "srt",
+      "sha256": "a3a9eed0709d30110d09736cdac5c6c95fa7f383b0a2d4887cb636afe91394e3",
+      "segment_count": 4,
+      "mapped_segment_count": 2,
+      "concepts": [
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "embeddings-vector-search",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "5b34de2e2c0709ba",
+      "filename": "[English] What Is a Digital Librarian AI Agent Connecting SQL & Vector Database [DownSub.com].srt",
+      "title": "What Is a Digital Librarian AI Agent Connecting SQL & Vector Database",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "5b34de2e2c0709ba74a2a6889cde99d9992cf0aebf317ff029dab5543c70e2de",
+      "segment_count": 2,
+      "mapped_segment_count": 2,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "embeddings-vector-search",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "generative-ai",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "477e5eac5978d859",
+      "filename": "[English] What Is AI Model Collapse Why AI Could Forget Reality [DownSub.com].srt",
+      "title": "What Is AI Model Collapse Why AI Could Forget Reality",
+      "category": "foundations",
+      "format": "srt",
+      "sha256": "477e5eac5978d859cf74e4b1f4fbb85841b292704f557cc6bd08091e9621e048",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "a223be3a587ce685",
+      "filename": "[English] What is an AI Code Generator LLM Coding, Productivity, & Risk [DownSub.com].srt",
+      "title": "What is an AI Code Generator LLM Coding, Productivity, & Risk",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "a223be3a587ce68549ff18b9425a827d57125f4a00f7bf0b53fa42dce4137ca6",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "fine-tuning",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "7f96559218e42334",
+      "filename": "[English] What Is an AI IDE How AI Is Changing Developer & Coding Tools [DownSub.com].srt",
+      "title": "What Is an AI IDE How AI Is Changing Developer & Coding Tools",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "7f96559218e423348fca8838286b543e64967e2d44ce83e4f3a84e9f2bae5fe1",
+      "segment_count": 2,
+      "mapped_segment_count": 2,
+      "concepts": [
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "3d58c1ec2f1ae703",
+      "filename": "[English] What Is Chunkless RAG How Docling & AI Agents Navigate Documents [DownSub.com].srt",
+      "title": "What Is Chunkless RAG How Docling & AI Agents Navigate Documents",
+      "category": "architecture",
+      "format": "srt",
+      "sha256": "3d58c1ec2f1ae703246f4554c881cb2d5745a5945388095127b4d3aa1aca3cbb",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 3
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "9036c061228fbea8",
+      "filename": "[English] What Is Context Engineering Why It Matters for AI Agents [DownSub.com].srt",
+      "title": "What Is Context Engineering Why It Matters for AI Agents",
+      "category": "architecture",
+      "format": "srt",
+      "sha256": "9036c061228fbea8a9372951ca299d1ac2680ce68d50be77ca89603941330df8",
+      "segment_count": 2,
+      "mapped_segment_count": 2,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "embeddings-vector-search",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "38300e1c5f8062bf",
+      "filename": "[English] What Is Legacy Code How AI Is Modernizing Legacy Systems [DownSub.com].srt",
+      "title": "What Is Legacy Code How AI Is Modernizing Legacy Systems",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "38300e1c5f8062bf3b3e765ac4dcbcdf80662898956d7090d7e7a8e37356a7b8",
+      "segment_count": 2,
+      "mapped_segment_count": 2,
+      "concepts": [
+        {
+          "concept_id": "architecture",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "generative-ai",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "7aba77f9e539130c",
+      "filename": "[English] What Is MLflow Tracing AI Agents & LLM Workflows [DownSub.com] (1).srt",
+      "title": "What Is MLflow Tracing AI Agents & LLM Workflows",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "7aba77f9e539130c1dacffeebb9e700ee0ff2391f00820ecbcdb7966e1e22463",
+      "segment_count": 6,
+      "mapped_segment_count": 6,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 2
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "7aba77f9e539130c",
+      "filename": "[English] What Is MLflow Tracing AI Agents & LLM Workflows [DownSub.com].srt",
+      "title": "What Is MLflow Tracing AI Agents & LLM Workflows",
+      "category": "engineering",
+      "format": "srt",
+      "sha256": "7aba77f9e539130c1dacffeebb9e700ee0ff2391f00820ecbcdb7966e1e22463",
+      "segment_count": 6,
+      "mapped_segment_count": 6,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 6
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 2
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "b38e7d8e18b91240",
+      "filename": "[English] What Is MLflow Tracing AI Agents & LLM Workflows [DownSub.com].txt",
+      "title": "What Is MLflow Tracing AI Agents & LLM Workflows",
+      "category": "engineering",
+      "format": "txt",
+      "sha256": "b38e7d8e18b91240808bb291ad4f606139bd8ab8bd98f07c0ce1ac18f63c7065",
+      "segment_count": 2,
+      "mapped_segment_count": 2,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "48c94c96f78e708f",
+      "filename": "[English] What Is RAD Why It Matters in the Age of AI Coding [DownSub.com].srt",
+      "title": "What Is RAD Why It Matters in the Age of AI Coding",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "48c94c96f78e708fb6b90d37a0cd2a32a56dad2cce73e5544ac589832895f5de",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "rules-and-model-choice",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "software-engineering",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "155c3f88e0012e53",
+      "filename": "[English] What Is the AI Security Trilemma Smart, Fast, or Secure AI [DownSub.com].srt",
+      "title": "What Is the AI Security Trilemma Smart, Fast, or Secure AI",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "155c3f88e0012e5318580b4cffc6fa642374631698fe2b1f3587b109cd4460a3",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "security",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "context-engineering",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "memory-and-tools",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "b834f4fee8fa11ff",
+      "filename": "[English] What should security leaders do with AI They don\u2019t know. [DownSub.com].srt",
+      "title": "What should security leaders do with AI They don\u2019t know.",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "b834f4fee8fa11ffc63188a54f208c6e4031cd12d5036e978b706cadc0544e0c",
+      "segment_count": 11,
+      "mapped_segment_count": 11,
+      "concepts": [
+        {
+          "concept_id": "security",
+          "segment_count": 11
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "embeddings-vector-search",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "f0083de5edba0d25",
+      "filename": "[English] When Should AI Systems Use Super Agents [DownSub.com].srt",
+      "title": "When Should AI Systems Use Super Agents",
+      "category": "architecture",
+      "format": "srt",
+      "sha256": "f0083de5edba0d259659f5290e00147dbf5f37eb22147376b677b194cee7e7ea",
+      "segment_count": 4,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "c7038d246edc5602",
+      "filename": "[English] Who\u2019s afraid of an open-weight model GLM, context bombing and post-Black Hat attacks [DownSub.com].srt",
+      "title": "Who\u2019s afraid of an open-weight model GLM, context bombing and post-Black Hat attacks",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "c7038d246edc5602be397f0150269d1396d1e71eade2738fce88a38234614ec4",
+      "segment_count": 10,
+      "mapped_segment_count": 10,
+      "concepts": [
+        {
+          "concept_id": "security",
+          "segment_count": 10
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 4
+        },
+        {
+          "concept_id": "agents",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "evaluation",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "observability",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "e82ea3388fc807e4",
+      "filename": "[English] Why AI Makes the Humanities More Important Than Ever [DownSub.com].srt",
+      "title": "Why AI Makes the Humanities More Important Than Ever",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "e82ea3388fc807e4dacceeb2f62b2a830169d92e55cf4dc944845038e210d529",
+      "segment_count": 4,
+      "mapped_segment_count": 4,
+      "concepts": [
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "infrastructure",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "0b8be862c59e71a6",
+      "filename": "[English] Why Does AI Need Access to the Web [DownSub.com].srt",
+      "title": "Why Does AI Need Access to the Web",
+      "category": "unclassified",
+      "format": "srt",
+      "sha256": "0b8be862c59e71a6846433610978b80f7cdaf23ea5876e42baa33f5d16f6243b",
+      "segment_count": 5,
+      "mapped_segment_count": 5,
+      "concepts": [
+        {
+          "concept_id": "agents",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 5
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "840bc0e2a156dc5b",
+      "filename": "[English] Why RAG Solutions Fail with Complex Documents & Vector Databases [DownSub.com].srt",
+      "title": "Why RAG Solutions Fail with Complex Documents & Vector Databases",
+      "category": "architecture",
+      "format": "srt",
+      "sha256": "840bc0e2a156dc5b35856504434c4b4353ab5003b36124ec9bfe993d2f96e439",
+      "segment_count": 2,
+      "mapped_segment_count": 2,
+      "concepts": [
+        {
+          "concept_id": "embeddings-vector-search",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "rag",
+          "segment_count": 2
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "architecture",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "hallucinations",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    },
+    {
+      "source_id": "ac7997fdb64cca18",
+      "filename": "[English] Why Risk Should Determine Your AI Architecture [DownSub.com].srt",
+      "title": "Why Risk Should Determine Your AI Architecture",
+      "category": "governance-security",
+      "format": "srt",
+      "sha256": "ac7997fdb64cca181d32ba05f328f372917dfb943507c94ce61b8112793d8ce5",
+      "segment_count": 3,
+      "mapped_segment_count": 3,
+      "concepts": [
+        {
+          "concept_id": "architecture",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "governance-risk",
+          "segment_count": 3
+        },
+        {
+          "concept_id": "ai-foundations",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "cost-outcomes",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "security",
+          "segment_count": 1
+        },
+        {
+          "concept_id": "skills-and-mcp",
+          "segment_count": 1
+        }
+      ],
+      "coverage_status": "mapped"
+    }
+  ]
+}
